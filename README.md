@@ -12,6 +12,15 @@ I'm an introvert. Quieter than people expect. I'm more guarded than people reali
 
 Personality type: ISFP-T (Adventurer). Feeling-dominant, introverted, spontaneous. I lead with values and empathy. Data informs my decisions, but it doesn't replace judgment.
 
+Insights Discovery maps four color energies that shape how people work and communicate:
+
+- 🔵 Cool Blue — analytical, precise, data-driven
+- 🟢 Earth Green — supportive, values-driven, patient
+- 🟡 Sunshine Yellow — sociable, energizing, optimistic
+- 🔴 Fiery Red — decisive, direct, action-oriented
+
+I lead with 🟢 Earth Green and 🔵 Cool Blue.
+
 ## My Values
 
 > सत्यमेव जयते — *Truth alone triumphs*
