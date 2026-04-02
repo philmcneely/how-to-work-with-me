@@ -2,7 +2,7 @@
 
 **Phil McNeely**
 
-[How I Lead](leadership.md) | [How I Think About Technology](technical.md) | [Career Story](career.md)
+[How I Lead](leadership.md) | [How I Think About Technology](technical.md) | [Career Story](career.md) | [Resume](resume.md)
 
 ## Who I Am
 
