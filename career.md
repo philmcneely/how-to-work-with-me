@@ -11,7 +11,7 @@ This page will cover the path from fast food to testing to engineering leadershi
 Topics planned:
 - The fast food years and what they taught me about teamwork
 - Self-teaching MCSE on NT4 — where the homelab began
-- Winternals and working with Mark Russinovich
+- Winternals and early systems debugging
 - The QA automation journey
 - From individual contributor to director (and back)
 - Lessons I'd tell my younger self
