@@ -7,7 +7,7 @@ As Director of Engineering at FullStory (2022-2025), I owned the product and tec
 | Metric | Before | After | Impact |
 |--------|--------|-------|--------|
 | CI build pass rate | ~52% | ~77% | Developers stopped ignoring red builds |
-| CI vendor costs | Baseline | -50%+ | Strategic migration to in-house cloud infra |
+| CI vendor costs | Baseline | -50%+ | Moved runners to our GKE/GCE clusters — discounted compute rates instead of paying CircleCI for runtime |
 | Team size | 11 engineers | 4 engineers | Multiple reorgs — shifted to self-service model with cross-org contributors |
 | Median PR build time | Baseline | -32% | Selective test execution optimization |
 | Release verification | 2.5+ hour dev/QA final verification, frequent last-minute blockers | 15-20 min automated suite | Comprehensive CI caught issues early — no more surprise blockers at release |
