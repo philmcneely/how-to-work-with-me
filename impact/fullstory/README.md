@@ -8,11 +8,13 @@ As Director of Engineering at FullStory (2022-2025), I owned the product and tec
 |--------|--------|-------|--------|
 | CI build pass rate | ~52% | ~77% | Developers stopped ignoring red builds |
 | CI vendor costs | Baseline | -50%+ | Strategic migration to in-house cloud infra |
-| Team size | 11 engineers | 4 engineers | Multiple reorgs reduced headcount — still delivered same output |
+| Team size | 11 engineers | 4 engineers | Multiple reorgs — shifted to self-service model with cross-org contributors |
 | Median PR build time | Baseline | -32% | Selective test execution optimization |
 | Release cycle time | ~2.5 hours | <15 minutes | Automated manual test processes, auto-rollback, canary releases |
 
 ## What I Built
+
+After multiple restructuring rounds reduced the team from 11 to 4, I refocused on core strengths and efficiency. The platform became self-service — product teams contributed their own CI/CD improvements within guardrails my team defined and approved. We shifted from doing all the work to owning the standards, reviewing contributions, and maintaining the critical path. Smaller core team, broader organizational reach.
 
 - Introduced a Quality/CI/DevEx scorecard to track qualitative and quantitative engineering outcomes
 - Pioneered AI-driven testing accelerators — led evaluations, authored enablement content, conducted hands-on workshops
