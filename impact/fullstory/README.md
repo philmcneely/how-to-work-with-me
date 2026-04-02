@@ -8,6 +8,7 @@ As Director of Engineering at FullStory (2022-2025), I owned the product and tec
 |--------|--------|-------|--------|
 | CI build pass rate | ~52% | ~77% | Developers stopped ignoring red builds |
 | CI vendor costs | Baseline | -50%+ | Strategic migration to in-house cloud infra |
+| Team size | 11 engineers | 4 engineers | Delivered same output with 64% fewer people |
 | Median PR build time | Baseline | -32% | Selective test execution optimization |
 | Release cycle time | ~2.5 hours | <15 minutes | Automated manual test processes, auto-rollback, canary releases |
 
