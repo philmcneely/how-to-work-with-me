@@ -14,7 +14,7 @@ As Director of Engineering at FullStory (2022-2025), I owned the product and tec
 
 ## What I Built
 
-After multiple restructuring rounds reduced the team from 11 to 4, I refocused on core strengths and efficiency. The platform became self-service — product teams contributed their own CI/CD improvements within guardrails my team defined and approved. We shifted from doing all the work to owning the standards, reviewing contributions, and maintaining the critical path. Smaller core team, broader organizational reach.
+After multiple restructuring rounds reduced the team from 11 to 4, I refocused on core strengths, efficiency, and cost. Cost was the drumbeat — every decision ran through it. We migrated off expensive CI vendors to in-house infrastructure, eliminated redundant tooling, and optimized compute spend. The platform became self-service — product teams contributed their own CI/CD improvements within guardrails my team defined and approved. We shifted from doing all the work to owning the standards, reviewing contributions, and maintaining the critical path. Smaller core team, broader organizational reach, lower operating costs across the board.
 
 - Introduced a Quality/CI/DevEx scorecard to track qualitative and quantitative engineering outcomes
 - Pioneered AI-driven testing accelerators — led evaluations, authored enablement content, conducted hands-on workshops
