@@ -25,7 +25,7 @@ North American QE leader driving automation-first testing transformation. Archit
 - CI build pass rates: 52% to 77% (FullStory)
 - CI vendor costs: reduced 50%+ (FullStory)
 - Median PR build time: reduced 32% (FullStory)
-- Release test time: 2.5-hour multi-person manual test party to 15-20 min single automated run (FullStory)
+- Release verification: 2.5+ hour dev/QA final verification (with frequent last-minute blockers) to 15-20 min automated suite (FullStory)
 - Team scale: up to 62 staff with 5 managers (HomeAway)
 - Found $300K revenue bug at Winternals working with Mark Russinovich (early career)
 
