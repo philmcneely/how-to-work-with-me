@@ -24,7 +24,7 @@ After multiple restructuring rounds reduced the team from 11 to 4, I refocused o
 
 ## Leadership
 
-- Built and scaled distributed engineering teams, focusing on coaching, career development, and high-impact delivery
+- Managed a distributed team through multiple reorgs — coached people through transitions, focused remaining team on highest-impact work
 - Fostered a culture of continuous improvement, promoting internal communities of practice
 - Partnered with senior leadership and product stakeholders to embed quality principles across the SDLC
 - Managed vendors, resources and spend related to CI/CD, distributed testing, search infrastructure and consultants
