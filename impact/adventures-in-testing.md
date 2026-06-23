@@ -4,7 +4,7 @@
 
 ## The Work
 
-Strategic, project-driven initiatives to design and implement testing methodologies using emerging technologies. This is where I build the things I think QE teams will need next.
+Adventures in Testing was my consulting practice between FullStory and Western Union. I took on some minor consulting work, but the real value of this period was R&D — expanding beyond AI-assisted test creation into the full end-to-end pipeline: from story to test generation to execution. Not just "can AI write a test" but "can AI take a Jira ticket, understand the intent, generate the right tests, and run them."
 
 ## What I Built
 

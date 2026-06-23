@@ -6,8 +6,6 @@
 
 ## The short version
 
-> Líder é aquele que serve — *A leader is one who serves* (Brazilian Portuguese)
-
 I'm a servant leader. That's not a buzzword — it's a deliberate choice about what leadership is for. My job exists to make my team successful, not the other way around. I'm not here to direct traffic from above. I'm here to remove obstacles, develop people, and create the conditions where good work happens.
 
 That doesn't mean soft. I hold high standards and I'll have the hard conversations. Servant leadership without accountability is just being nice, and being nice isn't a leadership philosophy. I treat you like a professional and expect you to deliver. We'll set goals together, but once we agree on what needs to happen, it's yours to own. I'm here to clear obstacles and drive accountability, not micromanage how you get there.
@@ -15,8 +13,6 @@ That doesn't mean soft. I hold high standards and I'll have the hard conversatio
 The test is simple: is my team better because I'm here? Are they growing? Are they shipping? Do they trust that I have their back? If the answer is yes, I'm doing my job.
 
 ## What you can expect from me
-
-> 言行一致 — *Words and actions in accord* (Japanese)
 
 I'll filter organizational noise so you can focus on the work, but I'm not a bottleneck. I expect my leads to build their own relationships with peer teams and work directly with them. I'll translate shifting priorities into clear direction, but you should understand the why behind changes, not lose focus with every shift. When the pressure is real and the deadline matters, you'll hear that from me too. I won't manufacture urgency, but I won't hide it either.
 
@@ -29,8 +25,6 @@ I'll share what I know. If I have context that helps you do your job better, you
 If you're coming from a rough situation, I get it. I'll build an environment where you can do your best work, and I won't rush you while you learn to trust it.
 
 ## What I expect from you
-
-> Jak się nie ma, co się lubi, to się lubi, co się ma — *If you don't have what you love, love what you have* (Polish)
 
 Do the work. Try your best. Be honest about what you know and what you don't. I will never be upset that you don't know something. I'd rather hear "I'm not sure" than find out later we built on a bad assumption.
 
@@ -46,8 +40,6 @@ Own your mistakes. I make them too, and when I get it wrong, I'll say so. I'm no
 
 ## How I run teams
 
-> Mtu ni watu — *A person is people* (Swahili)
-
 I build focused teams where everyone knows what they're responsible for. Ambiguity in roles creates friction, so I try to define lanes clearly while leaving room for people to stretch into new areas when they're ready.
 
 I believe in communities of practice. If you're good at something, teach others. If you want to learn something, speak up and I'll find a way to get you exposure. Growth doesn't only happen through promotions. Sometimes it's a new skill, a harder problem, or a different kind of project. If you're ready for the next level, I'll advocate for you and make sure the right people see your work. That's part of my job, not something you should have to do alone.
@@ -60,8 +52,6 @@ I don't do meetings for the sake of meetings. If we're meeting, there should be 
 
 ## Working across the organization
 
-> 화합 — *Harmony through unity* (Korean)
-
 My job isn't just managing down. A big part of leading at this level is working across engineering, product, design, and other stakeholders to make sure my team is building the right things and has what they need to do it well.
 
 I prefer to lead through influence. If I need something from a team that doesn't report to me, I build the relationship and make the case. If priorities are competing across groups, I'd rather work it out directly with the other leader than escalate every friction point. That said, when a decision needs to be made and alignment isn't happening, I'll push for resolution. If it's within my org, I'll make the call. If it's a shared decision, I'd rather escalate jointly than unilaterally decide. I can also say no to a stakeholder who outranks me if the ask doesn't make sense for the team or the product. I'll do it respectfully, with data, but I'll do it.
@@ -72,8 +62,6 @@ Managing up matters too. My leadership needs to know where we stand, what the ri
 
 ## Building and scaling teams
 
-> Chi semina bene, raccoglie bene — *Who sows well, reaps well* (Italian)
-
 I've built teams from scratch and grown existing ones. When hiring, I'm looking for whether someone can do the work, be honest, and collaborate. Pedigree isn't what gets you on my team.
 
 When a team is growing, the things that worked at three people don't always work at fifteen. I pay attention to when process needs to tighten up, when communication patterns need to change, and when roles need clearer definition. Scaling is its own skill and I've learned most of it the hard way.
@@ -81,8 +69,6 @@ When a team is growing, the things that worked at three people don't always work
 I also think about who's ready for more responsibility. Not everyone wants to manage people, and that's fine. I try to create paths where strong individual contributors can grow without being forced into management just because there's no other ladder.
 
 ## How I handle performance issues
-
-> Beter een goede buur dan een verre vriend — *Better a good neighbor than a distant friend* (Dutch)
 
 Early and directly. If something isn't working, you'll know. I won't let it build up for months and then drop it on you in a review. That's not fair and it doesn't give you a chance to fix it.
 
@@ -92,8 +78,6 @@ If I've given clear feedback and nothing changes, I'll escalate. That includes m
 
 ## Making hard calls
 
-> El que no arriesga, no gana — *He who doesn't risk, doesn't win* (Spanish)
-
 Not every decision has a good option. Sometimes you're choosing between shipping with known issues or missing a commitment. Sometimes you're cutting a feature the team spent weeks on because the priority changed. Sometimes you're letting go of someone the team likes because the performance isn't there.
 
 I've made all of those calls. I don't enjoy most of them. But I make them, and I make them without dragging the process out longer than it needs to be. The team deserves clarity, not prolonged ambiguity while I hope the problem resolves itself.
@@ -102,15 +86,11 @@ I've also inherited situations that needed rebuilding, understaffed teams, techn
 
 ## Seeing the bigger picture
 
-> Cine vede departe, ajunge departe — *Who sees far, goes far* (Romanian)
-
 I try to balance the day-to-day with the longer view. It's easy to get buried in tickets and deadlines and lose sight of why we're building what we're building. Part of my job is to keep that bigger picture visible for the team, to connect the work you're doing today to where we're headed.
 
 I also believe there's an art and a science to how teams work. Process, metrics, and planning give you the data to make good decisions. But I also pay attention to the things that are harder to measure, the rhythm of a team, when something is off, when someone needs a different kind of challenge. Both matter. I use the data to inform decisions and instinct to catch what the data misses.
 
 ## Setting direction
-
-> Waar rook is, is vuur — *Where there's smoke, there's fire* (Afrikaans)
 
 I do my best strategic thinking when I can ground it in real signals. I look at where the pain is, where the risk is, and where we're leaving value on the table. That's how I build a roadmap. Customer-facing defects, release confidence, test coverage gaps, flaky pipelines, slow feedback loops — the data tells you where to invest if you're paying attention.
 
@@ -120,20 +100,14 @@ I also revisit the plan regularly. A quarterly roadmap that doesn't adapt to wha
 
 ## What "ownership" means on my teams
 
-> Kto nie pracuje, ten nie je — *He who does not work, does not eat* (Czech)
-
 It means you don't just do the task, you think about it. If you see something broken adjacent to your work, flag it. If a requirement doesn't make sense, push back. If you finish early, let me know so we can plan what's next.
 
 Ownership also means knowing your limits. Asking for help is not weakness. Silently struggling until something blows up is a much bigger problem.
 
 ## How I know it's working
 
-> По делам судят — *Judge by deeds* (Russian)
-
 Happy teams that don't deliver aren't successful. High-output teams that burn out aren't either. I'm looking for both: consistent delivery and people who want to stay and grow. If the work is shipping, the quality is solid, and people aren't running for the door, I'm doing my job.
 
 ## My leadership style in a sentence
-
-> Fàs gu mall, seas gu buan — *Grow slowly, stand firmly* (Scottish Gaelic)
 
 I'll give you everything you need to succeed and then get out of your way. In return, be straight with me and deliver what you commit to.

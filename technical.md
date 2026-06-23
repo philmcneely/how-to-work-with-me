@@ -66,6 +66,14 @@ Where I'm strong: infrastructure, automation, CI/CD pipelines, testing framework
 
 Where I'm still growing: I'm deeper in AI/ML than most people in my role — I run models on my own hardware and built [ML pipelines, neural networks, NLP, and computer vision projects](https://github.com/philmcneely/AI-ML-Class) through a post-graduate program at UT Austin — but I'm not a machine learning engineer. I know enough to build with it, evaluate it honestly, and not get sold snake oil. That gap is closing fast because I'm in it every day.
 
+I also know where my instincts work against me. I'm a builder — when something is broken, my first impulse is to jump in and fix it myself. At the IC level that was a superpower. At the leadership level, it means I sometimes do work I should be developing someone else to do. I'm aware of it, and I actively work against it, but the pull is real.
+
+Organizational politics challenge me. I'd rather fix the problem than navigate the politics around it. At this level, navigating the politics often is fixing the problem — getting the right people aligned, building the coalition, framing the ask. I've gotten better at it, but it doesn't come naturally and it costs me more energy than the technical work does.
+
+I'm an introvert leading in an extrovert's role. Stakeholder management, presentations, hallway influence — I can do all of it, and I do it well. But it challenges me in a way it doesn't drain extroverted leaders. I manage that energy deliberately, but it's a real constraint.
+
+I also build trust slowly. Most people see a version of me before they see the whole picture. That's not distrust — it's just how I'm wired. In a new role, it means relationship-building with peers and stakeholders takes me longer than it might for someone more immediately open. The relationships I do build tend to be durable, but the ramp-up is real.
+
 Testing is where I go deepest. For eleven years I [taught testing to Veterans](https://github.com/philmcneely/Class12CapstoneExample) transitioning into tech — people with no prior software experience — and took them from fundamentals through test planning, test case development, and automation. You don't teach something for that long without knowing it cold.
 
 I'm not the person who's going to write your microservice from scratch. I'm the person who's going to make sure it works, ship it faster, and build the systems that keep it working.
