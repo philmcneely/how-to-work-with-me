@@ -10,6 +10,6 @@ Every role in my career follows the same arc: inherit a manual or fragile proces
 |---------|-------|----------|
 | [HomeAway/Vrbo](impact/homeaway/) | 2007-2020 | Tested the products that drove a $3.9B acquisition by Expedia |
 | [FullStory](impact/fullstory/) | 2022-2025 | Release cycles from 2.5hrs to 15min, CI costs cut 50%+ |
-| Expedia | 2020-2022 | *Coming soon* |
+| [Expedia](impact/expedia.md) | 2020-2022 | Quality engineering focal for Lodging, drove convergence on tooling and practices |
 | Western Union | 2025-present | *Coming soon* |
-| Adventures in Testing | 2025 | *Coming soon* |
+| [Adventures in Testing](impact/adventures-in-testing.md) | 2025 | AI-powered testing tools and on-prem LLM infrastructure |

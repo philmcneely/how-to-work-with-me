@@ -18,6 +18,21 @@ North American QE leader driving automation-first testing transformation. Archit
 | 2015-2016 | HomeAway/Vrbo | Senior Quality Assurance Manager (62 staff, 5 managers) |
 | 2012-2015 | HomeAway/Vrbo | Quality Assurance Manager, Ecommerce/HASP |
 | 2007-2012 | HomeAway/Vrbo | Senior Quality Assurance Engineer |
+| 2004-2007 | Pinion Software | Software Quality Assurance Manager |
+| 2004 | MyDocOnline/ZixCorp | Senior Software Quality Engineer |
+| 2004 | 360Commerce | QA Analyst II / QA Lead |
+| 2000-2004 | Hire.com | Quality Engineering Team Lead |
+| 1995-2007 | Grid Technologies | Owner |
+| Nov 1999 - Jan 2000 | Winternals Software LP | Technical Support / Software Tester |
+| Aug-Oct 1999 | Kelly IT/Engineering at HP | Software Quality Lead |
+| Dec 1998 - Aug 1999 | Raintree Systems | NT Deployment Specialist / Network Admin |
+| May 1997 - Dec 1998 | Kelly IT/Engineering at HP | Software Quality Tester |
+| Jun 1996 - Dec 1998 | QASoft Inc | Designer / Software Tester |
+| Dec 1992 - Aug 1997 | Sullivan's AM/PM | Assistant Manager |
+| Feb 1992 - Jan 1993 | Subway | Assistant Manager |
+| Nov 1991 - Feb 1992 | Balloonin' Around | Sales |
+| — | RTM West / Arby's Unit 1009 | Award-winning Team Member / Manager (#6 store in the country, moved to #5) |
+| — | California Meter Service | Technician |
 | 2012-2023 | Veterans4Quality | Lead Instructor (volunteer) |
 
 ## Key Impact Numbers
@@ -27,7 +42,7 @@ North American QE leader driving automation-first testing transformation. Archit
 - Median PR build time: reduced 32% (FullStory)
 - Release verification: 2.5+ hour dev/test final verification (with frequent last-minute blockers) to 15-20 min automated suite (FullStory)
 - Team scale: up to 62 staff with 5 managers (HomeAway)
-- Found $300K revenue bug at Winternals working with Mark Russinovich (early career)
+- Found bug at Winternals that had cost $200K+ in refunds; root cause led to $90K+ recovery within 2 weeks (working with Mark Russinovich and Bryce Cogswell)
 
 ## Consulting Highlights (Adventures in Testing)
 
@@ -50,9 +65,15 @@ North American QE leader driving automation-first testing transformation. Archit
 
 ## Education
 
-- **BSIT** — University of Phoenix (GPA 3.74)
-- **MSCIS, Security minor** — Boston University (GPA 3.57)
 - **Post-Graduate AI/ML: Business Applications** — UT Austin (2024)
+- **MSCIS, Security minor** — Boston University (GPA 3.57, 2011-2015)
+- **BSIT, Information Technology** — University of Phoenix (GPA 3.74, 2007-2010)
+- **AAIT, Information Technology** — University of Phoenix (2006-2007)
+
+## Conferences
+
+- **GTAC 2014** — Google Test Automation Conference (invite-only)
+- **CAST 2015, 2014, 2012, 2011** — Conference of the Association for Software Testing
 
 ## Veterans4Quality (2012-2023)
 

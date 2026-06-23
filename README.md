@@ -2,9 +2,11 @@
 
 **Phil McNeely**
 
-[How I Lead](leadership.md) | [How I Think About Technology](technical.md) | [Career Story](career.md) | [Resume](resume.md) | [Business Impact](impact.md) | [Medium](https://medium.com/@philmcneely)
+[How I Lead](leadership.md) | [How I Think About Technology](technical.md) | [Career Story](career.md) | [Resume](resume.md) | [Business Impact](impact.md) | [Medium](https://medium.com/@philmcneely) | [LinkedIn](https://www.linkedin.com/in/philmcneely/)
 
 ## Who I Am
+
+> Stilla vatten har djup botten — *Still waters run deep*
 
 I'm a tester at heart who ended up building things. I learn by doing, I'm self-taught, practical, and I'd rather show you than tell you.
 
@@ -43,6 +45,8 @@ These aren't aspirational. These are the things that bother me most when they're
 
 ## How I Work Best
 
+> Hiljaa hyvä tulee — *Good things come quietly*
+
 I do my best work solo, mid-morning to early evening. Give me a clear goal and let me find my own path to it. Tell me the *what* and the *why* — I'll figure out the *how*. Give me enough context to make judgment calls and I'll run with it. I hyperfocus, sometimes to the point of forgetting to eat or stand up.
 
 I believe there's an art and a science to doing things. I feel the art instinctively. I recognize the science is often more necessary. Process is a tool, not a religion. I know when to follow it and when to experiment. Honestly, I'm better at building roadmaps for teams than for my own calendar.
@@ -59,6 +63,8 @@ What kills my motivation: politics over substance, decisions made for optics ins
 
 ## What I Bring
 
+> Umuntu ngumuntu ngabantu — *A person is a person through other people*
+
 I'm a great rubber duck. You can talk through a problem with me and realize the answer yourself, except I'll actually ask questions and push back. It's one of my superpowers.
 
 I can take something complicated and explain it so it clicks, whether you're a senior architect or someone just getting comfortable with technology. If I don't understand it yet, give me time and I'll get there. Quantum mechanics is on me though, don't hold your breath.
@@ -73,6 +79,8 @@ My job is to make my team better. I filter noise so you can focus. I remove bloc
 
 ## What Excites Me
 
+> اطلبوا العلم ولو في الصين — *Seek knowledge even unto China*
+
 Puzzles. Give me something broken, messy, or nobody-else-wants-to-touch-it and let me figure it out. Finding defects was always like trying to outsmart two groups at once — the developers who built it and the users who'll break it.
 
 Novel problems over routine maintenance. I can do the routine work, but the stuff that pulls me in is the problem nobody's solved yet or the thing people said couldn't be done.
@@ -82,6 +90,8 @@ Impact I can see. Show me the numbers moving, show me the team shipping faster, 
 Building something from nothing. Taking a manual process and automating it, taking a fragile system and making it solid, taking a vague idea and turning it into something that works. That's the thread through my whole career.
 
 ## Where I'm Still Growing
+
+> Whāia te iti kahurangi; ki te tūohu koe, me he maunga teitei — *Seek the treasure you value most; if you bow your head, let it be to a lofty mountain*
 
 I'm strongest when I can connect ideas to practical outcomes. Pure theory without application is harder for me.
 
@@ -109,6 +119,8 @@ If you want to check in on me, casual beats interrogative. "How are things going
 
 ## Decisions
 
+> Erst wägen, dann wagen — *First weigh, then dare*
+
 My gut fires first. I always have an initial read. I've learned not to act on it right away. I need data to validate or override the instinct. If the data is ambiguous and a decision is needed now, I trust the gut. If I already know the problem space deeply, I'll move fast.
 
 Bring me options with a recommendation when you can. I'm also happy to hash through ambiguity together if we have the time.
@@ -118,6 +130,8 @@ When you bring me a problem or a proposal, give me the context first. What's the
 Don't lead with the solution and backfill the justification. I'll feel like I'm being sold to, not consulted. And don't dump raw data without a point of view — that's a different kind of unhelpful.
 
 ## Giving Me Feedback
+
+> Doğru söyleyeni dokuz köyden kovarlar — *He who speaks the truth is chased from nine villages*
 
 Approach matters. A lot.
 
@@ -134,6 +148,8 @@ I take feedback seriously. Constructive criticism lands best when it's specific 
 I don't need public recognition. Seeing the impact is enough — the dashboard that moved, the team that shipped faster, the process that stopped being painful. If you want to acknowledge something, a direct "that worked, nice job" lands better than any award or announcement.
 
 ## Conflict
+
+> Egbe bere, ugo bere, nke sí ibe ya ebela, nkú kwaa ya — *Let the kite perch, let the eagle perch; whichever denies the other, let its wing break*
 
 I prefer to resolve disagreements through dialogue. That said, I don't avoid hard conversations, especially when I'm defending my team or advocating for something I believe in.
 
@@ -153,6 +169,8 @@ Betray that and the relationship is functionally over. I can coexist, I can work
 
 ## When I'm Stressed
 
+> Þetta reddast — *It will all work out*
+
 I get quiet. I'm processing, not disengaging. Then curt, short answers, efficiency mode. I rarely lose my cool, but the fuse exists.
 
 What helps: give me space. Don't poke. Let me come back to it.
@@ -160,6 +178,8 @@ What helps: give me space. Don't poke. Let me come back to it.
 I've grown a lot in this area. More patience now. I recognize the signs earlier. Still a work in progress.
 
 ## Outside of Work
+
+> ʻAʻohe pau ka ʻike i ka hālau hoʻokahi — *Not all knowledge is learned in just one school*
 
 I have a wife, dogs, a cat, and a large extended family. Few close friends. I prefer depth over breadth in relationships the same way I do in everything else.
 
@@ -176,6 +196,8 @@ I collect, my wife builds. I buy the Lego sets and she lights up putting them to
 Family time is how I decompress, but my brain never fully stops. Even during downtime I'm processing something in the background. Shower thoughts are real. I need the active disengagement even if the engine keeps running underneath.
 
 ## The One Thing
+
+> Y gwir yn erbyn y byd — *The truth against the world*
 
 If you take nothing else from this: radical candor.
 
