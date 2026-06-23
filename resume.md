@@ -11,19 +11,19 @@ North American QE leader driving automation-first testing transformation. Archit
 | Years | Company | Role |
 |-------|---------|------|
 | 2025-present | Western Union | Senior Manager, Quality Engineering |
-| Jan-Oct 2025 | Adventures in Testing | Consultant |
-| 2022-2025 | FullStory | Director of Engineering |
-| 2020-2022 | Expedia | Senior Engineering Manager, Operational Excellence |
-| 2016-2020 | HomeAway/Vrbo | DevOps Senior Engineering Manager |
-| 2015-2016 | HomeAway/Vrbo | Senior Quality Assurance Manager (62 staff, 5 managers) |
-| 2012-2015 | HomeAway/Vrbo | Quality Assurance Manager, Ecommerce/HASP |
-| 2007-2012 | HomeAway/Vrbo | Senior Quality Assurance Engineer |
-| 2004-2007 | Pinion Software | Software Quality Assurance Manager |
+| Jan-Oct 2025 | [Adventures in Testing](impact/adventures-in-testing.md) | Consultant |
+| 2022-2025 | [FullStory](impact/fullstory/) | Director of Engineering |
+| 2020-2022 | [Expedia](impact/expedia.md) | Senior Engineering Manager, Operational Excellence |
+| 2016-2020 | [HomeAway/Vrbo](impact/homeaway/) | DevOps Senior Engineering Manager |
+| 2015-2016 | [HomeAway/Vrbo](impact/homeaway/) | Senior Quality Assurance Manager (62 staff, 5 managers) |
+| 2012-2015 | [HomeAway/Vrbo](impact/homeaway/) | Quality Assurance Manager, Ecommerce/HASP |
+| 2007-2012 | [HomeAway/Vrbo](impact/homeaway/) | Senior Quality Assurance Engineer |
+| 2004-2007 | [Pinion Software](impact/pinion.md) | Software Quality Assurance Manager |
 | 2004 | MyDocOnline/ZixCorp | Senior Software Quality Engineer |
 | 2004 | 360Commerce | QA Analyst II / QA Lead |
-| 2000-2004 | Hire.com | Quality Engineering Team Lead |
+| 2000-2004 | [Hire.com](impact/hire.md) | Quality Engineering Team Lead |
 | 1995-2007 | Grid Technologies | Owner |
-| Nov 1999 - Jan 2000 | Winternals Software LP | Technical Support / Software Tester |
+| Nov 1999 - Jan 2000 | [Winternals Software LP](impact/winternals.md) | Technical Support / Software Tester |
 | Aug-Oct 1999 | Kelly IT/Engineering at HP | Software Quality Lead |
 | Dec 1998 - Aug 1999 | Raintree Systems | NT Deployment Specialist / Network Admin |
 | May 1997 - Dec 1998 | Kelly IT/Engineering at HP | Software Quality Tester |
@@ -33,7 +33,7 @@ North American QE leader driving automation-first testing transformation. Archit
 | Nov 1991 - Feb 1992 | Balloonin' Around | Sales |
 | — | RTM West / Arby's Unit 1009 | Award-winning Team Member / Manager (#6 store in the country, moved to #5) |
 | — | California Meter Service | Technician |
-| 2012-2023 | Veterans4Quality | Lead Instructor (volunteer) |
+| 2012-2023 | [Veterans4Quality](impact/veterans4quality.md) | Lead Instructor (volunteer) |
 
 ## Key Impact Numbers
 
@@ -73,8 +73,9 @@ North American QE leader driving automation-first testing transformation. Archit
 ## Conferences
 
 - **GTAC 2014** — Google Test Automation Conference (invite-only)
-- **CAST 2015, 2014, 2012, 2011** — Conference of the Association for Software Testing
+- **CAST 2015** — Co-presented "Experiences from Asking Outsource Partners to Shift to Context Driven Testing" with Carl Shaulis
+- **CAST 2014, 2012, 2011** — Conference of the Association for Software Testing
 
-## Veterans4Quality (2012-2023)
+## [Veterans4Quality](impact/veterans4quality.md) (2012-2023)
 
 11 years teaching hands-on testing and automation skills to recently retired Veterans. Restructured curriculum, built progression roadmap, designed capstone program. Topics: testing tools, cross-browser testing, API testing, automation basics.

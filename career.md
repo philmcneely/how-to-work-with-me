@@ -82,7 +82,7 @@ I built AI-assisted testing tools during my consulting work at Adventures in Tes
 
 That's quality engineering. Engineering the best ways to test — and right now, AI is one of those ways.
 
-## Veterans4Quality
+## [Veterans4Quality](impact/veterans4quality.md)
 
 From 2012 to 2023, I taught hands-on testing and automation skills to recently retired Veterans through the Veterans4Quality program. Eleven years. I restructured the curriculum, built a progression roadmap, and designed the capstone program. Topics ranged from testing fundamentals to cross-browser testing to API testing to automation basics.
 
@@ -90,7 +90,7 @@ Teaching testing to people coming from military careers — people who understan
 
 ## The testing community
 
-I've been active in the context-driven testing community for years. I attended CAST — the Conference of the Association for Software Testing — four times between 2011 and 2015, including presenting on test partnerships. In 2014 I was invited to GTAC, Google's Test Automation Conference — an invite-only event that brought together testing practitioners from across the industry.
+I've been active in the context-driven testing community for years. I attended CAST — the Conference of the Association for Software Testing — four times between 2011 and 2015, including co-presenting "Experiences from Asking Outsource Partners to Shift to Context Driven Testing" with Carl Shaulis. In 2014 I was invited to GTAC, Google's Test Automation Conference — an invite-only event that brought together testing practitioners from across the industry.
 
 These weren't resume-padding conference attendance. CAST is where the people who shaped modern testing thinking — James Bach, Michael Bolton, Cem Kaner — present and debate. Being in those rooms, arguing about what testing actually is and how to do it better, is where a lot of my philosophy comes from.
 

@@ -1,6 +1,6 @@
-# HomeAway/Vrbo: Testing That Drove a $3.9 Billion Acquisition
+# HomeAway/Vrbo: 13 Years Building Quality That Drove a $3.9 Billion Acquisition
 
-Between 2012 and 2015, I managed testing efforts for the initiatives that transformed HomeAway from a listing-fee business into a transactional marketplace. These weren't incremental improvements — they were bet-the-company product launches that fundamentally changed how vacation rental revenue worked.
+**Jul 2007 – Jul 2020** | Four roles, from individual contributor to senior engineering manager.
 
 ## The Stock Chart
 
@@ -12,17 +12,66 @@ Products delivered outperformed expectations, resulting in significant revenue g
 
 ## Scale
 
-At peak, I managed a globally distributed team of 63 testers — FTEs (ICs and managers) and contract workers across multiple vendors and locales. I also led cross-product testing initiatives involving over 100 testers. These weren't isolated test plans — they were company-wide programs reported to executive leadership weekly.
+At peak, I managed a globally distributed team of 63 testers — FTEs (ICs and managers) and contract workers across multiple vendors and locales, with 5 managers (3 of whom I developed and promoted from within the org). I also led cross-product testing initiatives involving over 100 testers. These weren't isolated test plans — they were company-wide programs reported to executive leadership weekly.
 
-## The Initiatives
+---
 
-**Online Booking (2012)** — HomeAway's first transactional product. Travelers could book and pay online instead of contacting owners directly. My team led testing across the full payment flow — UI, API, database, third-party payment integration. This was the foundation everything else was built on.
+## Senior QA Engineer (Jul 2007 – Sep 2012)
 
-**Pay-per-Booking / Performance-Based Model (2013)** — A new revenue model where property managers paid per booking instead of flat annual listing fees. This opened the platform to smaller operators who couldn't afford $1,000+/year upfront. My team tested the billing engine, reporting dashboards, and integration across multiple HomeAway brands.
+I started on VacationRentals.com — one of about 20 brands under the HomeAway umbrella — and immediately started building automation. I'd been automating for years by then; this wasn't a learning curve, it was day one execution.
 
-**Interhome Partnership / Online Booking Expansion (2013)** — Extended online booking to Interhome's European inventory, then rolled it out across all HomeAway brands globally. Cross-locale testing, multi-currency payment flows, regulatory compliance across markets.
+- Built the Selenium WebDriver/Grid test framework from scratch using Java, TestNG, and Ant
+- Pioneered API testing at HomeAway — tested centralized payment service APIs using Java, not just E2E UI
+- Managed testing for VacationRentals.com across ASP/JScript on IIS and Java/Spring MVC on Resin
+- Owned mobile native app testing and strategy on iOS and Android
+- Tested internal CSR toolset, social integrations, and central security service
+- Tested centralized web services integration points across product lines
+- Performed performance testing, managed releases and push-to-live, and handled production diagnostics
+- Data warehouse integration testing across product lines
 
-**Traveler Service Fee (2016)** — The controversial 5-10% booking fee on travelers. "Wildly profitable but massively unpopular." My team tested the fee calculation engine, display logic, and edge cases across every product line and locale.
+## QA Manager, Ecommerce/HASP (Sep 2012 – Apr 2015)
+
+This is where the company transformed. I managed testing for the initiatives that turned HomeAway from a listing-fee business into a transactional marketplace. These were bet-the-company launches that fundamentally changed how vacation rental revenue worked.
+
+- **Online Booking (2012)** — HomeAway's first transactional product. My team led testing across the full payment flow — UI, API, database, third-party payment integration. The foundation everything else was built on.
+- **Pay-per-Booking / Performance-Based Model (2013)** — New revenue model where property managers paid per booking instead of flat annual listing fees. Tested the billing engine, reporting dashboards, and integration across multiple brands.
+- **Interhome Partnership / Online Booking Expansion (2013)** — Extended online booking to Interhome's European inventory, then rolled it out across all HomeAway brands globally. Cross-locale testing, multi-currency payment flows, regulatory compliance across markets.
+- **PPB for VRBO (2014)** — Extended the pay-per-booking model to VRBO.com
+- **HomeAway & Expedia Partnership (2014)** — Expedia listing more than 115,000 HomeAway vacation rental properties
+- **Online Booking Everywhere (2014)** — Initiative to enable online booking for every listing on the platform
+- Managed testing for HomeAway Software for Professionals (HASP) — 16 products
+- Managed and developed a globally distributed team of testers across HomeAway employees and multiple contractor providers
+- Led company-wide testing efforts reporting to executive leadership weekly
+- Teams delivered on time and within acceptable quality levels
+- Products delivered outperformed expectations — significant revenue growth and stock rise of >20% for 2013-2014
+
+## Senior QA Manager, Ecommerce/Software (Apr 2015 – Aug 2016)
+
+Expanded scope — 5 ecommerce products across multiple brands plus the 16 HASP products. 62 total staff with 5 managers.
+
+- **Traveler Service Fee (2016)** — The controversial 5-10% booking fee on travelers. "Wildly profitable but massively unpopular." My team tested the fee calculation engine, display logic, and edge cases across every product line and locale.
+- 5 managers, 3 of whom were developed and promoted from within the org, plus several senior technical reports
+- Led company-wide testing efforts of major company initiatives, reporting to executive leadership weekly
+- Mentored team members on automation and testing strategies
+- Promoted continuous learning through hands-on learning, educational opportunities, and a community of practice
+
+## Senior Engineering Manager, DevOps (Aug 2016 – Jul 2020)
+
+Shifted from test management to owning the CI/CD platform that every team depended on. Product Owner and Engineering Leader for CI/CD tools, processes, and platform infrastructure.
+
+- Owned the support and technical roadmap for 24/7 Tier 1 Jenkins infrastructure and tooling
+- Oversaw internal tooling platform supporting CI/CD pipelines within a microservices architecture
+- Delivered scalable, developer-friendly infrastructure using Jenkins, GitHub, and in-house telemetry
+- Built and delivered a DORA4 dashboard — built consensus, pitched the idea, delivered it
+- Extended the DORA4 dashboard to track pipeline infrastructure metrics
+- Managed vendors, resources, and spend related to CI/CD, distributed testing, and testing consultants
+- Managed and developed a distributed team of engineers
+
+## Recognition
+
+- **Traveler Award** — the highest individual award HomeAway gives
+- **Keep Calm and HomeAway** — team award with the payments team
+- Two additional awards (names TBD)
 
 ---
 
