@@ -90,7 +90,7 @@ Teaching testing to people coming from military careers — people who understan
 
 ## The testing community
 
-I've been active in the context-driven testing community for years. I attended CAST — the Conference of the Association for Software Testing — four times between 2011 and 2015, including co-presenting "Experiences from Asking Outsource Partners to Shift to Context Driven Testing" with Carl Shaulis. In 2014 I was invited to GTAC, Google's Test Automation Conference — an invite-only event that brought together testing practitioners from across the industry.
+I've been active in the context-driven testing community for years. I attended CAST — the Conference of the Association for Software Testing — four times between 2011 and 2015, including co-presenting "[Experiences from Asking Outsource Partners to Shift to Context Driven Testing](http://cast2015.sched.org/event/31oH/experiences-from-asking-outsource-partners-to-shift-to-context-driven-testing)" with Carl Shaulis. In 2014 I was invited to GTAC, Google's Test Automation Conference — an invite-only event that brought together testing practitioners from across the industry.
 
 These weren't resume-padding conference attendance. CAST is where the people who shaped modern testing thinking — James Bach, Michael Bolton, Cem Kaner — present and debate. Being in those rooms, arguing about what testing actually is and how to do it better, is where a lot of my philosophy comes from.
 

@@ -73,7 +73,7 @@ North American QE leader driving automation-first testing transformation. Archit
 ## Conferences
 
 - **GTAC 2014** — Google Test Automation Conference (invite-only)
-- **CAST 2015** — Co-presented "Experiences from Asking Outsource Partners to Shift to Context Driven Testing" with Carl Shaulis
+- **CAST 2015** — Co-presented "[Experiences from Asking Outsource Partners to Shift to Context Driven Testing](http://cast2015.sched.org/event/31oH/experiences-from-asking-outsource-partners-to-shift-to-context-driven-testing)" with Carl Shaulis
 - **CAST 2014, 2012, 2011** — Conference of the Association for Software Testing
 
 ## [Veterans4Quality](impact/veterans4quality.md) (2012-2023)
