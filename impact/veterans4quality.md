@@ -12,6 +12,7 @@ Hands-on testing and automation instruction for recently retired Veterans transi
 - Designed and delivered a capstone program — [example project](https://github.com/philmcneely/Class12CapstoneExample)
 - Topics: testing tools, cross-browser testing, API testing, automation basics, test planning, test case development
 - Took students from "what is a test case" to writing and executing automated tests
+- Final projects demonstrated real-world capability — one student who started with basic computer skills delivered a presentation on migrating cloud testing infrastructure from Sauce Labs to BrowserStack
 
 ## Why It Matters
 

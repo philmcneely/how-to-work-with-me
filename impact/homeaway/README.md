@@ -49,7 +49,8 @@ This is where the company transformed. I managed testing for the initiatives tha
 
 Expanded scope — 5 ecommerce products across multiple brands plus the 16 HASP products. 62 total staff with 5 managers.
 
-- **Traveler Service Fee (2016)** — The controversial 5-10% booking fee on travelers. "Wildly profitable but massively unpopular." My team tested the fee calculation engine, display logic, and edge cases across every product line and locale.
+- **Traveler Service Fee (2016)** — The controversial 5-10% booking fee on travelers. "Wildly profitable but massively unpopular." My team tested the fee calculation engine, display logic, and edge cases across every product line and locale. Built a Service Fee Launch QA Dashboard with program quality gates (P1 defects = 0, P2 ≤ 2, P3-P5 ≤ 25, test charters passing > 90%, 100% executed). Tracked 400+ defects across 6 brands (HomeAway US/UK, VRBO, VR, Abritel, FewO) — 7 defects/day arrival rate, 11-day average close time.
+- Built a Quality Information Dashboard — letter-grade scorecard tracking unit test coverage, integration test coverage, a11y, system test, static test, compatibility, exploratory, security, and performance test coverage. Overall Score: B, TMMI Level 2.
 - 5 managers, 3 of whom were developed and promoted from within the org, plus several senior technical reports
 - Led company-wide testing efforts of major company initiatives, reporting to executive leadership weekly
 - Mentored team members on automation and testing strategies
@@ -59,11 +60,12 @@ Expanded scope — 5 ecommerce products across multiple brands plus the 16 HASP 
 
 Shifted from test management to owning the CI/CD platform that every team depended on. Product Owner and Engineering Leader for CI/CD tools, processes, and platform infrastructure.
 
-- Owned the support and technical roadmap for 24/7 Tier 1 Jenkins infrastructure and tooling
-- Oversaw internal tooling platform supporting CI/CD pipelines within a microservices architecture
-- Delivered scalable, developer-friendly infrastructure using Jenkins, GitHub, and in-house telemetry
-- Built and delivered a DORA4 dashboard — built consensus, pitched the idea, delivered it
-- Extended the DORA4 dashboard to track pipeline infrastructure metrics
+- Migrated from legacy build system to Jenkins and delivered a modular pipeline as a product — any team could spin up a new product with a functioning hello world, a full CI pipeline, and the ability to push to production from minute one
+- Owned 24/7 Tier 1 Jenkins infrastructure with tiered SLA support (PagerDuty for P1, 4-hour response)
+- Typical 120-day snapshot: 99.5% build stability across 218K+ builds, 424 production deploys per week, 36-minute median deployment lead time
+- Built the DORA4 Software Delivery and Pipeline Infrastructure dashboards from scratch — with drill-down trending, tied to DORA 2018 Report benchmarks, tracking commits, builds, production deploys, deployment lead time, build stability, FCIs, and FCI breakdown
+- Controlled the SOX gate to keep deployments compliant
+- Led the Sauce Labs to BrowserStack migration — 100% of active repos migrated
 - Managed vendors, resources, and spend related to CI/CD, distributed testing, and testing consultants
 - Managed and developed a distributed team of engineers
 

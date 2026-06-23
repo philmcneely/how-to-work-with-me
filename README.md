@@ -159,7 +159,7 @@ Break that and trust takes real time to rebuild. I can still work with you, but 
 
 > Þetta reddast — *It will all work out* (Icelandic)
 
-I get quiet. I'm processing, not disengaging. Then curt, short answers, efficiency mode. I rarely lose my cool, but the fuse exists.
+I get quiet. I'm processing, not disengaging. Then curt, short answers, efficiency mode. I rarely lose my cool, but the fuse exists. When I hit the limit, I'll tell you I need to step away. I don't explode — I get blunt and direct, and I know I'm not at my best in that moment. I come back when I've processed it, and I don't hold grudges. If I was too curt, I'll own that.
 
 What helps: give me space. Don't poke. Let me come back to it.
 
