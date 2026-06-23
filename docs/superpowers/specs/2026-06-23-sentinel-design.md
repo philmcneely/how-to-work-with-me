@@ -578,16 +578,24 @@ For teams that want to minimize API costs or keep everything on-prem. Vision + c
 
 | Model | Size | VRAM | Vision | Code Gen | Speed | Notes |
 |-------|------|------|--------|----------|-------|-------|
-| Qwen2.5-VL-72B (int4) | 72B | ~40GB (2x 3090) | Strong | Strong | ~15 tok/s | Best balance. UI understanding + code gen in one model. |
-| InternVL2.5-78B (int4) | 78B | ~42GB (2x 3090) | Excellent | Good | ~12 tok/s | Best pure vision. May need separate code model. |
-| Qwen2.5-VL-7B | 7B | ~8GB (1x 3090) | Good | Decent | ~80 tok/s | Fast, fits single GPU. Quality ceiling for complex UIs. |
-| CogAgent2-9B | 9B | ~10GB (1x 3090) | UI-specific | Limited | ~60 tok/s | Built for UI interaction. Weak at code gen — pair with code model. |
-| Molmo-7B | 7B | ~8GB (1x 3090) | Good | Limited | ~70 tok/s | Strong visual grounding. Not a code generator. |
+| Qwen3-VL-72B (int4) | 72B | ~40GB (3x 3090) | Excellent | Strong | ~15-20 tok/s | Top pick. GUI automation, UI element recognition, code gen, agentic tool use. |
+| Qwen3-VL-32B (int4) | 32B | ~17GB (1x 3090) | Strong | Good | ~35-40 tok/s | Fast alternative. Solid UI understanding, good for high-volume healer mode. |
+| InternVL3-78B (int4) | 78B | ~42GB (3x 3090) | Excellent | Good | ~12 tok/s | Best pure vision. Uses Qwen2.5-72B language backbone. Slightly worse at code gen. |
+| Qwen3-VL-8B (q4) | 8B | ~5GB (1x 3090) | Good | Decent | ~48 tok/s | Fast triage — "bug or UI change?" — before escalating to 72B. |
 
-**Recommended setup for self-hosted:**
-- **Primary:** Qwen2.5-VL-72B (int4) on 2x 3090 via vLLM — handles both vision and code generation
-- **Fast fallback:** Qwen2.5-VL-7B on 1x 3090 — for runner-side failure classification (is this a real bug?) where speed matters more than quality
-- **Architecture note:** The generator and healer don't need to be the same model. A strong vision model can analyze the UI, then a strong code model (Qwen3-30B, DeepSeek-V3) writes the Playwright code from the vision model's description.
+**Not viable:** CogAgent (hasn't kept pace), ShowUI (research only), Qwen3-VL-235B (needs 4x A100 80GB, won't fit 3090s).
+
+**Recommended HAL9000 deployment:**
+
+| Role | Model | GPUs | Speed | When |
+|------|-------|------|-------|------|
+| Triage (bug vs UI change?) | Qwen3-VL-8B | 1x 3090 | ~48 tok/s | Every test failure |
+| Generator (screenshot → Playwright) | Qwen3-VL-72B int4 | 3x 3090 | ~15-20 tok/s | New feature only |
+| Healer (rewrite broken tests) | Qwen3-VL-72B int4 | same 3x | ~15-20 tok/s | Confirmed UI change |
+
+This leaves 2-3 GPUs free for other workloads (VibeVoice, LoRA training). Alternative: run the 32B on 1 GPU for faster healer turnaround and reserve 72B for generator-only.
+
+**Architecture note:** The generator and healer don't need to be the same model. A strong vision model can analyze the UI, then a strong code model (Qwen3-30B, DeepSeek-V3) writes the Playwright code from the vision model's description. Two-model pipeline trades latency for allowing each model to specialize.
 
 **What does NOT work self-hosted (yet):**
 - Full CUA-style interaction (screenshot → click → screenshot → type) requires models specifically trained for agentic computer use. Open models can classify and describe UIs but can't reliably drive multi-step browser interaction. Use cloud CUA (Anthropic Computer Use) for this until open agentic models mature.
