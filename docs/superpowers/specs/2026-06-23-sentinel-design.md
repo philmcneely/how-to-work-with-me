@@ -574,26 +574,35 @@ The "thinking" field from the intent metadata is critical here — it tells the 
 
 For teams that want to minimize API costs or keep everything on-prem. Vision + code generation capability required.
 
-**Viable candidates (fits HAL9000 6x3090 or similar):**
+**Viable candidates:**
 
-| Model | Size | VRAM | Vision | Code Gen | Speed | Notes |
-|-------|------|------|--------|----------|-------|-------|
-| Qwen3-VL-72B (int4) | 72B | ~40GB (3x 3090) | Excellent | Strong | ~15-20 tok/s | Top pick. GUI automation, UI element recognition, code gen, agentic tool use. |
-| Qwen3-VL-32B (int4) | 32B | ~17GB (1x 3090) | Strong | Good | ~35-40 tok/s | Fast alternative. Solid UI understanding, good for high-volume healer mode. |
-| InternVL3-78B (int4) | 78B | ~42GB (3x 3090) | Excellent | Good | ~12 tok/s | Best pure vision. Uses Qwen2.5-72B language backbone. Slightly worse at code gen. |
-| Qwen3-VL-8B (q4) | 8B | ~5GB (1x 3090) | Good | Decent | ~48 tok/s | Fast triage — "bug or UI change?" — before escalating to 72B. |
+| Model | Size | Memory | Vision | Code Gen | Speed (est.) | Runtime |
+|-------|------|--------|--------|----------|-------------|---------|
+| Qwen3-VL-72B (fp16) | 72B | ~144GB unified | Excellent | Strong | ~10-15 tok/s MLX | Mac Studio M2 Ultra (192GB) — fits without quantization |
+| Qwen3-VL-72B (int4) | 72B | ~40GB | Excellent | Strong | ~15-20 tok/s CUDA | HAL9000 3x 3090 via vLLM (if GPU time available) |
+| Qwen3-VL-32B (int4) | 32B | ~17GB | Strong | Good | ~35-40 tok/s | Mac Studio or 1x 3090. Fast healer alternative. |
+| InternVL3-78B (int4) | 78B | ~42GB | Excellent | Good | ~12 tok/s | Mac Studio or 3x 3090. Best pure vision. |
+| Qwen3-VL-8B (q4) | 8B | ~5GB | Good | Decent | ~60+ tok/s MLX | Mac Studio — fast triage model. |
 
-**Not viable:** CogAgent (hasn't kept pace), ShowUI (research only), Qwen3-VL-235B (needs 4x A100 80GB, won't fit 3090s).
+**Not viable:** CogAgent (hasn't kept pace), ShowUI (research only), Qwen3-VL-235B (needs 4x A100 80GB).
 
-**Recommended HAL9000 deployment:**
+**Recommended Mac Studio deployment (primary inference host):**
 
-| Role | Model | GPUs | Speed | When |
-|------|-------|------|-------|------|
-| Triage (bug vs UI change?) | Qwen3-VL-8B | 1x 3090 | ~48 tok/s | Every test failure |
-| Generator (screenshot → Playwright) | Qwen3-VL-72B int4 | 3x 3090 | ~15-20 tok/s | New feature only |
-| Healer (rewrite broken tests) | Qwen3-VL-72B int4 | same 3x | ~15-20 tok/s | Confirmed UI change |
+HAL9000's GPUs are reserved for podcast production (VibeVoice). Mac Studio M2 Ultra (192GB unified memory) is the QA agent's inference host.
 
-This leaves 2-3 GPUs free for other workloads (VibeVoice, LoRA training). Alternative: run the 32B on 1 GPU for faster healer turnaround and reserve 72B for generator-only.
+| Role | Model | Runtime | Speed | When |
+|------|-------|---------|-------|------|
+| Triage (bug vs UI change?) | Qwen3-VL-8B | MLX on Mac Studio | ~60+ tok/s | Every test failure |
+| Generator (screenshot → Playwright) | Qwen3-VL-72B fp16 | MLX on Mac Studio | ~10-15 tok/s | New feature only |
+| Healer (rewrite broken tests) | Qwen3-VL-72B fp16 | MLX on Mac Studio | ~10-15 tok/s | Confirmed UI change |
+
+**Advantages of Mac Studio over HAL9000 for this workload:**
+- 192GB unified memory fits 72B at full precision — no quantization quality loss
+- No GPU contention with podcast production
+- Generate/run/heal pattern means inference is bursty, not continuous — Mac Studio handles burst workloads well
+- Models already stored on NVMe (/Volumes/Data)
+
+**Fallback:** If Mac Studio is under load (Ollama, other work), HAL9000 can run the 72B on 3x 3090 via vLLM during off-hours when VibeVoice isn't generating.
 
 **Architecture note:** The generator and healer don't need to be the same model. A strong vision model can analyze the UI, then a strong code model (Qwen3-30B, DeepSeek-V3) writes the Playwright code from the vision model's description. Two-model pipeline trades latency for allowing each model to specialize.
 
