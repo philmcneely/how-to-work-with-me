@@ -58,7 +58,7 @@ In 2024, I completed a post-graduate program in AI/ML at UT Austin. Not because 
 
 The answer: a lot, but not what most people think. AI doesn't replace testers. It replaces the tedious parts of what testers do — generating test data, writing boilerplate assertions, triaging failures. The thinking, the judgment, the "what would a confused user do here" intuition — that's still human work. Maybe not forever. But for now.
 
-I built AI-assisted testing tools during my consulting work at Adventures in Testing. Playwright frameworks with AI-powered defect diagnostics. Test generation from UI flows. BDD test creation with vector database pattern reuse. The AI handles the mechanical work. The tester decides what to test and whether the results matter.
+I built AI-assisted testing tools during my consulting work at Adventures in Testing. Playwright frameworks with AI-powered defect diagnostics in [Python](https://github.com/philmcneely/playwright-ai-framework) and [TypeScript](https://github.com/philmcneely/playwright-ai-framework-ts). A [test generation toolkit](https://github.com/philmcneely/test-forge) that works from Jira tickets and Confluence pages. BDD test creation with vector database pattern reuse. The AI handles the mechanical work. The tester decides what to test and whether the results matter.
 
 That's quality engineering. Engineering the best ways to test — and right now, AI is one of those ways.
 

@@ -38,7 +38,7 @@ The trap is automating too early. If you don't understand the problem well enoug
 
 ## AI and ML — what's real
 
-I completed a post-graduate program in AI/ML at UT Austin. I run models on my own hardware. I'm not theorizing about AI — I'm using it every day.
+I completed a post-graduate program in AI/ML at UT Austin. I [run models on my own hardware](https://github.com/philmcneely/club-3090). I'm not theorizing about AI — I'm using it every day.
 
 What AI does well in testing: generating test data, writing boilerplate, triaging failures, identifying patterns in logs, summarizing results. The mechanical work. It's genuinely good at that and getting better.
 
@@ -62,7 +62,7 @@ I think in systems, not components. A fix that solves the problem in one place b
 
 I'm not a computer scientist and I'm not a full-stack developer. I'm a practitioner. Everything I know, I learned by building something with it — and there are gaps. I know that.
 
-Where I'm strong: infrastructure, automation, CI/CD pipelines, testing frameworks, and building the tooling that connects them. I've been through every generation of browser automation — Selenium to Playwright — and every CI platform along the way. I've managed systems from the metal up since NT4. I can read code in most languages, write production tooling in Python and JavaScript, and I understand what's happening under the hood well enough to troubleshoot things most people hand off.
+Where I'm strong: infrastructure, automation, CI/CD pipelines, testing frameworks, and building the tooling that connects them. I've been through every generation of browser automation — Selenium to Playwright — and every CI platform along the way. I've managed systems from the metal up since NT4. I can read code in most languages, write production tooling in Python and JavaScript, and I understand what's happening under the hood well enough to troubleshoot things most people hand off. I build my own tools: AI-powered test frameworks in [Python](https://github.com/philmcneely/playwright-ai-framework) and [TypeScript](https://github.com/philmcneely/playwright-ai-framework-ts), a [test generation toolkit](https://github.com/philmcneely/test-forge) that works from Jira tickets and Confluence pages, and a [TDD coaching skill](https://github.com/philmcneely/tdd-coach) for AI-assisted development.
 
 Where I'm still growing: I'm deeper in AI/ML than most people in my role — I run models on my own hardware and built [ML pipelines, neural networks, NLP, and computer vision projects](https://github.com/philmcneely/AI-ML-Class) through a post-graduate program at UT Austin — but I'm not a machine learning engineer. I know enough to build with it, evaluate it honestly, and not get sold snake oil. That gap is closing fast because I'm in it every day.
 
