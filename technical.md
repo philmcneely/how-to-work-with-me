@@ -38,7 +38,7 @@ The trap is automating too early. If you don't understand the problem well enoug
 
 ## AI and ML — what's real
 
-I completed a post-graduate program in AI/ML at UT Austin. I [run models on my own hardware](https://github.com/philmcneely/club-3090). I'm not theorizing about AI — I'm using it every day.
+I completed a post-graduate program in AI/ML at UT Austin. I run models on my own hardware. I'm not theorizing about AI — I'm using it every day.
 
 What AI does well in testing: generating test data, writing boilerplate, triaging failures, identifying patterns in logs, summarizing results. The mechanical work. It's genuinely good at that and getting better.
 
