@@ -31,8 +31,11 @@ North American QE leader driving automation-first testing transformation. Archit
 | Dec 1992 - Aug 1997 | Sullivan's AM/PM | Assistant Manager |
 | Feb 1992 - Jan 1993 | Subway | Assistant Manager |
 | Nov 1991 - Feb 1992 | Balloonin' Around | Sales |
-| — | RTM West / Arby's Unit 1009 | Award-winning Team Member / Manager (#6 store in the country, moved to #5) |
-| — | California Meter Service | Technician |
+| Aug 1989 - Oct 1991 | RTM West / Arby's | Assistant Manager — supervised multiple units ($750K-$1.3M annual sales), roving AM for 13 months. Presidents Cup (2 yrs), Silver Cup 2nd place (1990, 1991), Night Owl (5x), Highest Beef Efficiency (98.3%) |
+| May 1989 - Aug 1989 | Fun 'n Games Arcade | Assistant Manager |
+| Jan 1989 - Aug 1989 | Alamo Community College District | Staff — student manager of tutoring center, maintained computer lab, supervised staff of 6, ESL instruction |
+| May 1987 - Dec 1988 | RTM West / Arby's Unit 1009 | Crew Member — #6 store in the country, moved to #5. Best Drive Thru time, Presidents Cup (2 yrs), Night Owl (8x), Most individual sales ($734.51/hr), Silver Cup (1988) |
+| Nov 1986 - May 1987 | California Meter Service | Technician |
 | 2012-2023 | [Veterans4Quality](impact/veterans4quality.md) | Lead Instructor (volunteer) |
 
 ## Key Impact Numbers
