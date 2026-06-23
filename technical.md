@@ -4,6 +4,8 @@
 
 [How to Work With Me](README.md) | [How I Lead](leadership.md) | [Career Story](career.md)
 
+This isn't a skills list — that's on the [resume](resume.md). This is how I make technical decisions, what I value in tools and systems, and where I'm honest about my gaps.
+
 ## How I evaluate tools
 
 > Доверяй, но проверяй — *Trust, but verify*
