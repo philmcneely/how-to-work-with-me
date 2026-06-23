@@ -6,7 +6,11 @@
 
 ## The short version
 
-I'm a servant leader. I treat you like a professional and expect you to deliver. We'll set goals together, but once we agree on what needs to happen, it's yours to own. I'm here to clear obstacles and drive accountability, not micromanage how you get there.
+I'm a servant leader. That's not a buzzword — it's a deliberate choice about what leadership is for. My job exists to make my team successful, not the other way around. I'm not here to direct traffic from above. I'm here to remove obstacles, develop people, and create the conditions where good work happens.
+
+That doesn't mean soft. I hold high standards and I'll have the hard conversations. Servant leadership without accountability is just being nice, and being nice isn't a leadership philosophy. I treat you like a professional and expect you to deliver. We'll set goals together, but once we agree on what needs to happen, it's yours to own. I'm here to clear obstacles and drive accountability, not micromanage how you get there.
+
+The test is simple: is my team better because I'm here? Are they growing? Are they shipping? Do they trust that I have their back? If the answer is yes, I'm doing my job.
 
 ## What you can expect from me
 

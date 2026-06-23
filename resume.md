@@ -25,7 +25,7 @@ North American QE leader driving automation-first testing transformation. Archit
 - CI build pass rates: 52% to 77% (FullStory)
 - CI vendor costs: reduced 50%+ by moving runners to own GKE/GCE clusters (FullStory)
 - Median PR build time: reduced 32% (FullStory)
-- Release verification: 2.5+ hour dev/QA final verification (with frequent last-minute blockers) to 15-20 min automated suite (FullStory)
+- Release verification: 2.5+ hour dev/test final verification (with frequent last-minute blockers) to 15-20 min automated suite (FullStory)
 - Team scale: up to 62 staff with 5 managers (HomeAway)
 - Found $300K revenue bug at Winternals working with Mark Russinovich (early career)
 
@@ -34,7 +34,7 @@ North American QE leader driving automation-first testing transformation. Archit
 - Python-based Playwright testing framework with AI-powered defect diagnostics
 - AI-assisted E2E test generation from UI flows via Playwright MCP
 - Jira-integrated BDD test generation with vector DB pattern reuse
-- Custom agents, prompts, and guardrails for AI-assisted QA tooling
+- Custom agents, prompts, and guardrails for AI-assisted testing tooling
 
 ## Technical
 
@@ -56,4 +56,4 @@ North American QE leader driving automation-first testing transformation. Archit
 
 ## Veterans4Quality (2012-2023)
 
-11 years teaching hands-on QA and automation skills to recently retired Veterans. Restructured curriculum, built progression roadmap, designed capstone program. Topics: testing tools, cross-browser testing, API testing, automation basics.
+11 years teaching hands-on testing and automation skills to recently retired Veterans. Restructured curriculum, built progression roadmap, designed capstone program. Topics: testing tools, cross-browser testing, API testing, automation basics.

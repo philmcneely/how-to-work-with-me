@@ -2,7 +2,7 @@
 
 Quality engineering isn't a cost center. It's a force multiplier. When testing leadership is embedded in the product lifecycle — not bolted on at the end — it drives measurable business outcomes. Revenue grows because products ship with confidence. Release velocity increases because teams trust their automation. Acquisition value goes up because the engineering org can demonstrate operational maturity.
 
-Every role in my career follows the same arc: inherit a manual or fragile process, build automation and observability around it, prove the business value with numbers, then scale it. The tools change — Selenium to Playwright, Jenkins to GitHub Actions, manual QA to AI-assisted testing — but the pattern doesn't.
+Every role in my career follows the same arc: inherit a manual or fragile process, build automation and observability around it, prove the business value with numbers, then scale it. The tools change — Selenium to Playwright, Jenkins to GitHub Actions, manual testing to AI-assisted testing — but the pattern doesn't.
 
 ## By Company
 

@@ -10,6 +10,10 @@ I'm a tester at heart who ended up building things. I learn by doing, I'm self-t
 
 I'm an introvert. Quieter than people expect. I'm more guarded than people realize, and most people see a version of me, not the whole picture. That's by design.
 
+It's easier to hurt me than people think. I'm a big guy and I know I can come across as intimidating, but that's not who I am. I lead with empathy, I avoid conflict when I can, and I'd rather talk it out than escalate. But if I need to step up for something I believe in or someone I'm protecting, I will.
+
+I might not look like I'm paying attention, but I usually am. I'm observing, taking things in, cataloging. Situational awareness is always on.
+
 Personality type: ISFP-T (Adventurer). Feeling-dominant, introverted, spontaneous. I lead with values and empathy. Data informs my decisions, but it doesn't replace judgment.
 
 Insights Discovery maps four color energies that shape how people work and communicate:
@@ -39,13 +43,19 @@ These aren't aspirational. These are the things that bother me most when they're
 
 ## How I Work Best
 
-I do my best work solo, mid-morning to early evening. Give me a clear goal and let me find my own path to it. Tell me the *what*, not the *how*. I hyperfocus, sometimes to the point of forgetting to eat or stand up.
+I do my best work solo, mid-morning to early evening. Give me a clear goal and let me find my own path to it. Tell me the *what* and the *why* — I'll figure out the *how*. Give me enough context to make judgment calls and I'll run with it. I hyperfocus, sometimes to the point of forgetting to eat or stand up.
 
 I believe there's an art and a science to doing things. I feel the art instinctively. I recognize the science is often more necessary. Process is a tool, not a religion. I know when to follow it and when to experiment. Honestly, I'm better at building roadmaps for teams than for my own calendar.
 
-If it's interesting, I'm locked in. If it's not, I need to find the angle that makes it interesting. I turn problems into puzzles. Testing was about thinking the way users actually think, the accidental clicks, the unexpected paths, the things nobody designed for. I protect developers from shipping problems and users from bad experiences. I need to enjoy what I do, and I do my best work when I'm engaged.
+I need the work to be interesting, or I need to find the angle that makes it interesting. I turn problems into puzzles. Testing was about thinking the way users actually think, the accidental clicks, the unexpected paths, the things nobody designed for. I protect developers from shipping problems and users from bad experiences. When I'm engaged, I deliver. That's where my best output comes from.
+
+I work well with people who communicate openly. "I don't know yet," "I'm blocked on this," and "I disagree, here's why" are all great. I just need to know where things stand. I do my best deep work when I can get uninterrupted focus time. The results speak for themselves.
 
 I'm flexible with hours and I'll show up when needed, but it goes both ways. If I'm on late calls and early mornings, don't measure me by hours at a desk. Judge the output, not the schedule. Friday 5pm to Monday 9am is personal time. I'll respond to genuine emergencies, but respect the boundary.
+
+The people I work best with are honest, self-sufficient, and not afraid to push back. Tell me when I'm wrong. Bring your own perspective, not just agreement. Do what you said you'd do. If you can't, say so early. I don't need you to be the smartest person in the room — I need you to show up, put in the effort, and own your lane.
+
+What kills my motivation: politics over substance, decisions made for optics instead of outcomes, being asked to pretend something is working when it isn't. I can push through a lot — boring work, tight deadlines, difficult people. But if the job becomes more about appearances than results, I'll push back to get things refocused. I'd rather fix the problem than quietly accept it.
 
 ## What I Bring
 
@@ -55,9 +65,21 @@ I can take something complicated and explain it so it clicks, whether you're a s
 
 I have a tester's eye. I spot where things break, whether that's a system, a process, or an argument.
 
-When I lock on to a problem, I bulldog it. I've pulled off things people said couldn't be done.
+When I lock on to a problem, I bulldog it. I've pulled off things people said couldn't be done. I don't just plan — I execute. Strategy is only as good as the follow-through, and I make sure things actually ship.
 
 Give me access and tools, I'll find what you need.
+
+My job is to make my team better. I filter noise so you can focus. I remove blockers and expedite what you need. When upper management wants to micromanage, I'm the shield — my team gets space to work. When you're stuck on something hard, I'm not just clearing the path — I'll sit down and think through it with you. When things go well, I make sure the right people see your work. When things go wrong and it's on me, I own it. I'll advocate for your growth, fight for your promotion, and find you the stretch opportunities that get you ready. The best version of my role is when the team doesn't even realize how much risk I'm quietly removing.
+
+## What Excites Me
+
+Puzzles. Give me something broken, messy, or nobody-else-wants-to-touch-it and let me figure it out. Finding defects was always like trying to outsmart two groups at once — the developers who built it and the users who'll break it.
+
+Novel problems over routine maintenance. I can do the routine work, but the stuff that pulls me in is the problem nobody's solved yet or the thing people said couldn't be done.
+
+Impact I can see. Show me the numbers moving, show me the team shipping faster, show me the thing that used to take hours now takes minutes. That's the payoff.
+
+Building something from nothing. Taking a manual process and automating it, taking a fragile system and making it solid, taking a vague idea and turning it into something that works. That's the thread through my whole career.
 
 ## Where I'm Still Growing
 
@@ -66,6 +88,8 @@ I'm strongest when I can connect ideas to practical outcomes. Pure theory withou
 I can operate in ambiguity, but I do my best work when I can define the problem clearly first. When things stay fuzzy too long, I'll push to bring structure to the situation.
 
 In areas where I'm still building expertise, I tend to listen and gather data before speaking up. That's deliberate, not disengagement. I'm working on contributing earlier in those conversations.
+
+I learn by doing. Reading about something gets me oriented, but I don't really understand it until I've touched it, broken it, and put it back together. That's how the homelab started, that's how I picked up automation, and that's how I'm approaching AI now. Give me access and room to experiment and I'll get there faster than any course could take me.
 
 ## Communication
 
@@ -81,11 +105,17 @@ Responses I genuinely appreciate: "I don't know yet," "I need to check with my t
 
 What I don't like: being pressured for immediate answers when it's not urgent, or being expected to have answers that require consulting others. Show up to meetings on time. Facilitate them well.
 
+If you want to check in on me, casual beats interrogative. "How are things going?" works. If I'm quiet, don't assume something is wrong — I'll surface problems when the timing is right. The worst thing you can do is not check in at all.
+
 ## Decisions
 
 My gut fires first. I always have an initial read. I've learned not to act on it right away. I need data to validate or override the instinct. If the data is ambiguous and a decision is needed now, I trust the gut. If I already know the problem space deeply, I'll move fast.
 
 Bring me options with a recommendation when you can. I'm also happy to hash through ambiguity together if we have the time.
+
+When you bring me a problem or a proposal, give me the context first. What's the situation, what's been tried, what are the constraints. Then give me your recommendation. I don't need a slide deck — I need enough to form my own read and compare it to yours.
+
+Don't lead with the solution and backfill the justification. I'll feel like I'm being sold to, not consulted. And don't dump raw data without a point of view — that's a different kind of unhelpful.
 
 ## Giving Me Feedback
 
@@ -100,6 +130,8 @@ What will damage the relationship: applying expectations retroactively. I can me
 Positive feedback? Just say it. No complexity needed.
 
 I take feedback seriously. Constructive criticism lands best when it's specific and fair. I know delivery matters to me, and I extend the same care when giving feedback to others.
+
+I don't need public recognition. Seeing the impact is enough — the dashboard that moved, the team that shipped faster, the process that stopped being painful. If you want to acknowledge something, a direct "that worked, nice job" lands better than any award or announcement.
 
 ## Conflict
 
@@ -129,11 +161,19 @@ I've grown a lot in this area. More patience now. I recognize the signs earlier.
 
 ## Outside of Work
 
-I have a wife, dogs, a cat, and a large extended family. Few close friends. I prefer depth over breadth.
+I have a wife, dogs, a cat, and a large extended family. Few close friends. I prefer depth over breadth in relationships the same way I do in everything else.
 
-Hobbies rotate: homelab, 3D printing, drone flying, collecting (Lego, GI Joe, Star Wars), gaming (in theory more than practice these days). No single hobby dominates forever. I sense when it's time to rotate.
+What drives me outside of work is the same thing that drives me inside it: figuring something out. I fixed the sprinkler wiring the dogs ripped out — researched it, learned enough to do it, got it working. That kind of satisfaction stays with me. "I didn't know how to do that, and now I do" is what recharges me.
 
-I recharge through family time, DIY projects, and the satisfaction of figuring something out myself.
+I started building gaming PCs back when getting a mouse, a sound card, and a CD-ROM to coexist meant juggling IRQs and COM ports. That turned into a homelab — NT4, then Windows 2000, then Server 2003 — and it never stopped growing. At home I ran three full racks. At work I built out 30 racks and full QA labs for testing. I personally owned machines most people only read about — Sun SPARCs, a DEC Alpha, Cobalt servers, enterprise hardware across different architectures. I wanted to know how all of it worked, not just the x86 stuff. I've let a lot of the old iron go over the years, but the lab never actually went away. These days the focus is doing more with less — core efficiency over raw accumulation. The current setup is leaner but more capable than anything I've had before: a rack with enterprise storage, multiple Macs, and a GPU server training AI models. It's been evolving for over 25 years. The platforms change, the impulse doesn't.
+
+My hobbies rotate: 3D printing (started for game miniatures back when printers were still fiddly and needed constant tuning), drone flying, collecting (Lego, GI Joe, Star Wars), board games, D&D when I can find the time, gaming in theory more than practice. Right now AI is eating all my time — building models, training voices, running pipelines. No single hobby dominates forever, but this one's had a long run. I've learned to trust the rotation — when something starts feeling like obligation instead of exploration, it's time to move on. That's not fickleness, it's how I'm wired.
+
+When I'm into something, I go deep. I have more Lego sets than I'll ever be able to build and display, drones I need to get back to flying, and a studio outbuilding that was supposed to be for board game nights but got taken over by projects. The hobbies compete for space the same way they compete for time.
+
+I collect, my wife builds. I buy the Lego sets and she lights up putting them together. Bringing that kind of joy to the people I care about is its own reward.
+
+Family time is how I decompress, but my brain never fully stops. Even during downtime I'm processing something in the background. Shower thoughts are real. I need the active disengagement even if the engine keeps running underneath.
 
 ## The One Thing
 
