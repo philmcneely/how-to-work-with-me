@@ -8,7 +8,7 @@ This isn't a skills list — that's on the [resume](resume.md). This is how I ma
 
 ## How I evaluate tools
 
-> Доверяй, но проверяй — *Trust, but verify*
+> Доверяй, но проверяй — *Trust, but verify* (Russian)
 
 I don't trust marketing. I don't trust demos. I trust what happens when I put something in front of a real problem and see if it holds up.
 
@@ -26,7 +26,7 @@ The exception is commodity infrastructure. I'm not building my own database or m
 
 ## Automation
 
-> 急がば回れ — *If in a hurry, take the roundabout path*
+> 急がば回れ — *If in a hurry, take the roundabout path* (Japanese)
 
 Automation is a tool, not a goal. "Automate everything" is a bumper sticker, not a strategy.
 
@@ -50,7 +50,7 @@ I'm also skeptical of hype cycles. Every few years the industry decides somethin
 
 ## How I approach technical problems
 
-> 千里之行，始于足下 — *A journey of a thousand miles begins with a single step*
+> 千里之行，始于足下 — *A journey of a thousand miles begins with a single step* (Chinese — [Lao Tzu](https://en.wikipedia.org/wiki/Tao_Te_Ching))
 
 Start simple. Verify assumptions before building on them. The number of times I've seen teams build elaborate solutions to problems they didn't actually have is embarrassing.
 
@@ -72,7 +72,7 @@ I'm not the person who's going to write your microservice from scratch. I'm the 
 
 ## Technical debt
 
-> Petit à petit, l'oiseau fait son nid — *Little by little, the bird builds its nest*
+> Petit à petit, l'oiseau fait son nid — *Little by little, the bird builds its nest* (French)
 
 All codebases have it. The question isn't whether you have technical debt — it's whether you're managing it or ignoring it.
 

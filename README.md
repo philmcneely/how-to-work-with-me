@@ -6,7 +6,7 @@
 
 ## Who I Am
 
-> Stilla vatten har djup botten — *Still waters run deep*
+> Stilla vatten har djup botten — *Still waters run deep* (Swedish)
 
 I'm a tester at heart who ended up building things. I learn by doing, I'm self-taught, practical, and I'd rather show you than tell you.
 
@@ -29,7 +29,7 @@ I lead with 🟢 Earth Green and 🔵 Cool Blue.
 
 ## My Values
 
-> सत्यमेव जयते — *Truth alone triumphs*
+> सत्यमेव जयते — *Truth alone triumphs* (Sanskrit — [motto of India](https://en.wikipedia.org/wiki/Satyameva_Jayate))
 
 These aren't aspirational. These are the things that bother me most when they're violated.
 
@@ -45,7 +45,7 @@ These aren't aspirational. These are the things that bother me most when they're
 
 ## How I Work Best
 
-> Hiljaa hyvä tulee — *Good things come quietly*
+> Hiljaa hyvä tulee — *Good things come quietly* (Finnish)
 
 I do my best work solo, mid-morning to early evening. Give me a clear goal and let me find my own path to it. Tell me the *what* and the *why* — I'll figure out the *how*. Give me enough context to make judgment calls and I'll run with it. I hyperfocus, sometimes to the point of forgetting to eat or stand up.
 
@@ -63,7 +63,7 @@ What kills my motivation: politics over substance, decisions made for optics ins
 
 ## What I Bring
 
-> Umuntu ngumuntu ngabantu — *A person is a person through other people*
+> Umuntu ngumuntu ngabantu — *A person is a person through other people* (Zulu — [Ubuntu philosophy](https://en.wikipedia.org/wiki/Ubuntu_philosophy))
 
 I'm a great rubber duck. You can talk through a problem with me and realize the answer yourself, except I'll actually ask questions and push back. It's one of my superpowers.
 
@@ -79,7 +79,7 @@ My job is to make my team better. I filter noise so you can focus. I remove bloc
 
 ## What Excites Me
 
-> اطلبوا العلم ولو في الصين — *Seek knowledge even unto China*
+> اطلبوا العلم ولو في الصين — *Seek knowledge even unto China* (Arabic — [hadith](https://en.wikipedia.org/wiki/Hadith))
 
 Puzzles. Give me something broken, messy, or nobody-else-wants-to-touch-it and let me figure it out. Finding defects was always like trying to outsmart two groups at once — the developers who built it and the users who'll break it.
 
@@ -91,7 +91,7 @@ Building something from nothing. Taking a manual process and automating it, taki
 
 ## Where I'm Still Growing
 
-> Whāia te iti kahurangi; ki te tūohu koe, me he maunga teitei — *Seek the treasure you value most; if you bow your head, let it be to a lofty mountain*
+> Whāia te iti kahurangi; ki te tūohu koe, me he maunga teitei — *Seek the treasure you value most; if you bow your head, let it be to a lofty mountain* (Māori)
 
 I'm strongest when I can connect ideas to practical outcomes. Pure theory without application is harder for me.
 
@@ -103,7 +103,7 @@ I learn by doing. Reading about something gets me oriented, but I don't really u
 
 ## Communication
 
-> एक हाथ से ताली नहीं बजती — *You can't clap with one hand*
+> एक हाथ से ताली नहीं बजती — *You can't clap with one hand* (Hindi)
 
 I'm fine with text, calls, or face-to-face. I prefer anything with transcript capability so I can capture notes.
 
@@ -119,7 +119,7 @@ If you want to check in on me, casual beats interrogative. "How are things going
 
 ## Decisions
 
-> Erst wägen, dann wagen — *First weigh, then dare*
+> Erst wägen, dann wagen — *First weigh, then dare* (German)
 
 My gut fires first. I always have an initial read. I've learned not to act on it right away. I need data to validate or override the instinct. If the data is ambiguous and a decision is needed now, I trust the gut. If I already know the problem space deeply, I'll move fast.
 
@@ -131,7 +131,7 @@ Don't lead with the solution and backfill the justification. I'll feel like I'm 
 
 ## Giving Me Feedback
 
-> Doğru söyleyeni dokuz köyden kovarlar — *He who speaks the truth is chased from nine villages*
+> Doğru söyleyeni dokuz köyden kovarlar — *He who speaks the truth is chased from nine villages* (Turkish)
 
 Approach matters. A lot.
 
@@ -149,7 +149,7 @@ I don't need public recognition. Seeing the impact is enough — the dashboard t
 
 ## Conflict
 
-> Egbe bere, ugo bere, nke sí ibe ya ebela, nkú kwaa ya — *Let the kite perch, let the eagle perch; whichever denies the other, let its wing break*
+> Egbe bere, ugo bere, nke sí ibe ya ebela, nkú kwaa ya — *Let the kite perch, let the eagle perch; whichever denies the other, let its wing break* (Igbo — from [Things Fall Apart](https://en.wikipedia.org/wiki/Things_Fall_Apart))
 
 I prefer to resolve disagreements through dialogue. That said, I don't avoid hard conversations, especially when I'm defending my team or advocating for something I believe in.
 
@@ -159,7 +159,7 @@ What doesn't work: demanding compliance without dialogue, using authority instea
 
 ## Trust and Loyalty
 
-> Доверяй, но проверяй — *Trust, but verify*
+> Доверяй, но проверяй — *Trust, but verify* (Russian)
 
 Trust starts conditional but leaning positive. Benefit of the doubt. From there, every interaction adds or subtracts. Deep trust is earned over time through consistency, not given freely.
 
@@ -169,7 +169,7 @@ Betray that and the relationship is functionally over. I can coexist, I can work
 
 ## When I'm Stressed
 
-> Þetta reddast — *It will all work out*
+> Þetta reddast — *It will all work out* (Icelandic)
 
 I get quiet. I'm processing, not disengaging. Then curt, short answers, efficiency mode. I rarely lose my cool, but the fuse exists.
 
@@ -179,7 +179,7 @@ I've grown a lot in this area. More patience now. I recognize the signs earlier.
 
 ## Outside of Work
 
-> ʻAʻohe pau ka ʻike i ka hālau hoʻokahi — *Not all knowledge is learned in just one school*
+> ʻAʻohe pau ka ʻike i ka hālau hoʻokahi — *Not all knowledge is learned in just one school* (Hawaiian)
 
 I have a wife, dogs, a cat, and a large extended family. Few close friends. I prefer depth over breadth in relationships the same way I do in everything else.
 
@@ -197,7 +197,7 @@ Family time is how I decompress, but my brain never fully stops. Even during dow
 
 ## The One Thing
 
-> Y gwir yn erbyn y byd — *The truth against the world*
+> Y gwir yn erbyn y byd — *The truth against the world* (Welsh — [Gorsedd motto](https://en.wikipedia.org/wiki/Gorsedd))
 
 If you take nothing else from this: radical candor.
 
