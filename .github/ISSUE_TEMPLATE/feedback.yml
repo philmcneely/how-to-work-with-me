@@ -1,0 +1,36 @@
+name: Feedback
+description: Something reads wrong, could be stronger, or doesn't match your experience working with me.
+title: "[Feedback] "
+labels: ["feedback"]
+body:
+  - type: dropdown
+    id: section
+    attributes:
+      label: Which page?
+      options:
+        - README (How to Work With Me)
+        - leadership.md (How I Lead)
+        - career.md (Career Story)
+        - philosophy.md (Testing Philosophy)
+        - technical.md (Technology)
+        - impact pages
+        - resume.md
+        - Other
+    validations:
+      required: true
+  - type: textarea
+    id: what
+    attributes:
+      label: What's the issue?
+      description: Be specific. Quote the line if you can.
+      placeholder: "The section on X says Y, but in my experience..."
+    validations:
+      required: true
+  - type: textarea
+    id: suggestion
+    attributes:
+      label: What would you suggest?
+      description: Optional but helpful.
+      placeholder: "It would read better if..."
+    validations:
+      required: false

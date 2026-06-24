@@ -1,0 +1,27 @@
+name: Question
+description: Something you want to understand better about how I work or lead.
+title: "[Question] "
+labels: ["question"]
+body:
+  - type: dropdown
+    id: section
+    attributes:
+      label: Which page?
+      options:
+        - README (How to Work With Me)
+        - leadership.md (How I Lead)
+        - career.md (Career Story)
+        - philosophy.md (Testing Philosophy)
+        - technical.md (Technology)
+        - impact pages
+        - resume.md
+        - General
+    validations:
+      required: true
+  - type: textarea
+    id: question
+    attributes:
+      label: What's your question?
+      placeholder: "I'm curious about..."
+    validations:
+      required: true

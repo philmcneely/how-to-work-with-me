@@ -191,6 +191,10 @@ My hobbies rotate: 3D printing (started for game miniatures back when printers w
 
 When I'm into something, I go deep. I have more Lego sets than I'll ever be able to build and display, drones I need to get back to flying, and a studio outbuilding that was supposed to be for board game nights but got taken over by projects. The hobbies compete for space the same way they compete for time.
 
+---
+
+Have feedback? [Open an issue](https://github.com/philmcneely/how-to-work-with-me/issues/new/choose).
+
 I collect, my wife builds. I buy the Lego sets and she lights up putting them together. Bringing that kind of joy to the people I care about is its own reward.
 
 Family time is how I decompress, but my brain never fully stops. Even during downtime I'm processing something in the background. Shower thoughts are real. I need the active disengagement even if the engine keeps running underneath.
