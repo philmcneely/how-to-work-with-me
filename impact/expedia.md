@@ -6,7 +6,7 @@
 
 ## The Role
 
-Expedia acquired HomeAway in 2015, but for years Vrbo still operated semi-independently. During that period I reinvented my team from quality engineering into CI pipeline operations. We migrated from the legacy build system to Jenkins and delivered a modular pipeline as a product. By working with the platform teams, we built it so any team could spin up a new product — complete with a functioning hello world for each of our main platforms and a full CI pipeline — ready to push to production from minute one. Everything included, ready to go. We offered customizable pipeline steps and consulted with teams on new needs. We also controlled the SOX gate to keep deployments compliant.
+Expedia acquired HomeAway in 2015, but for years Vrbo still operated semi-independently. During that transition — while I was still technically under the HomeAway/Vrbo banner — I reinvented my team from quality engineering into CI pipeline operations. We migrated from the legacy build system to Jenkins and delivered a modular pipeline as a product. By working with the platform teams, we built it so any team could spin up a new product — complete with a functioning hello world for each of our main platforms and a full CI pipeline — ready to push to production from minute one. Everything included, ready to go. We offered customizable pipeline steps and consulted with teams on new needs. We also controlled the SOX gate to keep deployments compliant.
 
 We owned that Jenkins infrastructure 24/7 and ran it well — a typical 120-day snapshot showed 99.5% build stability across 218K+ builds, 424 production deploys per week, and 36-minute median deployment lead time. We built the dashboards ourselves — Software Delivery and Pipeline Infrastructure — with drill-down trending, all tied to DORA 2018 Report benchmarks. We ran a tiered SLA system with PagerDuty for P1 incidents and 4-hour response times. When something downstream broke and developers couldn't deploy, it was our pipeline that took the call.
 
@@ -42,11 +42,15 @@ I developed a structured quality strategy framework that moved from strategy thr
 
 This is the framework I used to get the CTO's ear on testing strategy and get principal engineers and senior director/VP-level architects to accept an overall testing strategy and shared understanding. That was the foundation for moving toward re-implementation across the org.
 
-Ultimately, the CTO hired a VP of Quality who took things in a different direction. The strategy I'd gotten alignment on didn't survive the leadership change. That's how it goes sometimes.
+Ultimately, the CTO hired a VP of Quality who took things in a different direction. After 15 years in the HomeAway/Expedia ecosystem, the culture I'd built my career in was gone. FullStory offered a Director role with the scope and promotion I was looking for, so I moved on and let the new VP do her thing. We still talk.
 
 ## What I Learned
 
 This role taught me more about navigating large-org politics than any other. It also taught me what it feels like to have real impact constrained by structure — and when it's time to move on.
+
+## Budget Ownership
+
+Owned the CloudBees/Jenkins enterprise contract and AWS spend for our services and infrastructure. Everyone estimated expenses monthly and got graded on accuracy — I hit an A almost every month.
 
 ## Tools and Infrastructure
 

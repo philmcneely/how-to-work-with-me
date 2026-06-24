@@ -36,7 +36,7 @@ While running Grid Technologies — my own IT services company for over 12 years
 
 I got my first taste of automation at HP — Rational Visual Test 6.0. Record, playback, tweak. Primitive, but it clicked immediately. I'd been doing manual testing and the moment I saw what automation could do, I never looked back. Every job after that, I found a way to automate.
 
-At Hire.com I started as a tester and was promoted to QE team lead. I ended up running a team of four permanent engineers plus contractors, offshore staff in Pune, and up to 12 interns, testing enterprise software across Java/Linux and .NET/Windows platforms. I managed priorities across five product lines and their maintenance releases. That was my first real exposure to distributed teams, offshore coordination, and juggling multiple simultaneous release cycles. We used RSW eTest and SilkTest for automation — and I started the RSW eTest user group in Austin and got the company to sponsor it. I wasn't just using the tools, I was building community around them.
+At Hire.com I started as a tester and was promoted to testing team lead. I ended up running a team of four permanent engineers plus contractors, offshore staff in Pune, and up to 12 interns, testing enterprise software across Java/Linux and .NET/Windows platforms. I managed priorities across five product lines and their maintenance releases. That was my first real exposure to distributed teams, offshore coordination, and juggling multiple simultaneous release cycles. We used RSW eTest and SilkTest for automation — and I started the RSW eTest user group in Austin and got the company to sponsor it. I wasn't just using the tools, I was building community around them.
 
 At 360Commerce I led a team testing a J2EE-based point-of-sale system. At Pinion Software I managed testing across three product lines, stood up an offshore team, and built automation frameworks using AutoIt and Badboy. These were small companies with real problems and no budget for mistakes. You learn fast in that environment.
 
@@ -46,7 +46,7 @@ At HomeAway, I started on VacationRentals.com — one of about 20 brands under t
 
 The tools changed constantly — Selenium to WebDriverIO to Cypress to Playwright. Jenkins to CircleCI to GitHub Actions. Java to Python to TypeScript. But the pattern was always the same: inherit something manual or fragile, automate it, prove the value with numbers, then scale it so other teams benefit.
 
-At FullStory, I took a team that had been cut from 11 to 4 through restructuring and made it more effective than the original. Release verification went from 2.5 hours of manual checking to a 15-minute automated suite. CI costs dropped 50% by moving runners to our own infrastructure. Build times dropped 32%. Smaller team, lower cost, faster shipping. That's the pattern.
+At FullStory, the company kept trying to pivot how it did things — multiple rounds of RIFs and reorgs while I was there. I survived all of them except the last one. Each round, my team got smaller — from 11 down to 4 over the course of several restructurings. Some were laid off, some transferred to other teams. For those who were let go, we gave references, made introductions across our networks, and the company provided generous severance. We trimmed scope after each round to match the smaller group. The team that remained still delivered — release verification went from 2.5 hours of manual checking to a 15-minute automated suite. CI costs dropped 50% by moving runners to our own infrastructure. Build times dropped 32%.
 
 ## The AI chapter
 
@@ -57,6 +57,12 @@ The answer: a lot, but not what most people think. AI doesn't replace testers. I
 I built AI-assisted testing tools during my consulting work at Adventures in Testing. Playwright frameworks with AI-powered defect diagnostics in [Python](https://github.com/philmcneely/playwright-ai-framework) and [TypeScript](https://github.com/philmcneely/playwright-ai-framework-ts). A [test generation toolkit](https://github.com/philmcneely/test-forge) that works from Jira tickets and Confluence pages. BDD test creation with vector database pattern reuse. The AI handles the mechanical work. The tester decides what to test and whether the results matter.
 
 That's quality engineering. Engineering the best ways to test — and right now, AI is one of those ways.
+
+## Western Union
+
+In October 2025, I joined Western Union as the only US-based manager for a 200+ person quality engineering org. The day-to-day is hands-on — patches, hotfixes, experiments, full deploys, smoke testing, all during US hours. I represent the entire testing organization to US-based product and engineering leadership, manage handoffs across time zones, and coach modern testing patterns into an enterprise that's still evolving its practices.
+
+It's a different kind of challenge from anything I've done before — improving something massive that's already running. I established a responsive US-timezone presence for patches and hotfixes, consistent status communication, and kept the lines open between US stakeholders and the global team. Before I arrived, that didn't exist. The deeper work — automation maturity, defect density, testing capacity — is a longer game at enterprise scale.
 
 ## [Veterans4Quality](impact/veterans4quality.md)
 
@@ -75,3 +81,5 @@ These weren't resume-padding conference attendance. CAST is where the people who
 Every role, every company, every tool change — the constant is this: I look at how something is being done, I figure out a better way to do it, and I build the thing that makes the better way repeatable. Then I teach other people how to use it.
 
 That's testing. That's engineering. That's what I do.
+
+What's next looks like what's always been next — find the broken thing, build something better. The difference is the tools. AI is reshaping testing the way automation did 15 years ago, and I'd rather be building with it than reading about it.

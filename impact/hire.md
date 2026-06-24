@@ -4,7 +4,7 @@
 
 ## The Role
 
-Started as a tester and was promoted to QE team lead. Ended up running a team of 4 permanent engineers plus up to 5 contractors (including an offshore team in Pune, India) and up to 12 interns. Managed priorities across 5 product lines and their maintenance releases.
+Started as a tester and was promoted to testing team lead. Ended up running a team of 4 permanent engineers plus up to 5 contractors (including an offshore team in Pune, India) and up to 12 interns. Managed priorities across 5 product lines and their maintenance releases.
 
 This was my first real exposure to distributed teams, offshore coordination, and juggling multiple simultaneous release cycles.
 

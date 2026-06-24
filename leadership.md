@@ -6,6 +6,8 @@
 
 ## The short version
 
+> Líder é aquele que serve — *A leader is one who serves* (Brazilian Portuguese)
+
 I'm a servant leader. That's not a buzzword — it's a deliberate choice about what leadership is for. My job exists to make my team successful, not the other way around. I'm not here to direct traffic from above. I'm here to remove obstacles, develop people, and create the conditions where good work happens.
 
 That doesn't mean soft. I hold high standards and I'll have the hard conversations. Servant leadership without accountability is just being nice, and being nice isn't a leadership philosophy. I treat you like a professional and expect you to deliver. We'll set goals together, but once we agree on what needs to happen, it's yours to own. I'm here to clear obstacles and drive accountability, not micromanage how you get there.
@@ -16,7 +18,7 @@ The test is simple: is my team better because I'm here? Are they growing? Are th
 
 I'll filter organizational noise so you can focus on the work, but I'm not a bottleneck. I expect my leads to build their own relationships with peer teams and work directly with them. I'll translate shifting priorities into clear direction, but you should understand the why behind changes, not lose focus with every shift. When the pressure is real and the deadline matters, you'll hear that from me too. I won't manufacture urgency, but I won't hide it either.
 
-I'll go to bat for you. If you make a mistake and own it, I'll defend you. If you're getting treatment that's genuinely unfair, not just tough feedback, I'll step in. There's a difference between a peer team holding us to a high standard and someone being unreasonable. I know the difference. All I ask in return is that you're honest about what happened. Honesty doesn't erase consequences, but it changes how we handle them.
+I'll go to bat for you. If you make a mistake and own it, I'll defend you. If you're getting treatment that's genuinely unfair, not just tough feedback, I'll step in. There's a difference between a peer team holding us to a high standard and someone being unreasonable. I've learned to tell the difference. All I ask in return is that you're honest about what happened. Honesty doesn't erase consequences, but it changes how we handle them.
 
 I'll give you honest feedback, and I'll deliver it the way I'd want to receive it. No ambushes, no public callouts. If something needs to change, you'll hear it from me directly, calmly, and with enough context to act on it.
 
@@ -48,17 +50,21 @@ New team members get a mentor or a buddy. I don't drop someone into a codebase a
 
 I also care about the team as a team, not just a collection of individuals executing tasks. Some of the best teams I've been on weren't built on friendship. They were built on showing up, putting in the effort, and earning each other's respect through the work. That kind of bond holds up under pressure. I try to create that environment, where people know they can count on each other when things get hard.
 
+The best proof of how I run teams is what people say after they've left. Former team members, years later, don't talk about process or frameworks. They say things like "support, mentor, set priorities, diffuse conflict and remove roadblocks," "provide product and emotional support," and "you're a good sounding board — we might not agree on anything but at least I can talk to you about it." One former team member told me she didn't realize how functional our team was until she experienced other teams and saw the difference. That's the culture I try to build — one where people can disagree openly, solve problems together, and actually enjoy the work. The humor and camaraderie aren't a bonus. They're load-bearing.
+
 I don't do meetings for the sake of meetings. If we're meeting, there should be a reason, an agenda, and a result. 1:1s are your time. Bring what you need to talk about. I'll come with feedback, development conversations, and anything I think you need to know. But your topics come first.
 
 ## Working across the organization
 
-My job isn't just managing down. A big part of leading at this level is working across engineering, product, design, and other stakeholders to make sure my team is building the right things and has what they need to do it well.
+The testing leader who only talks to testers isn't useful to anyone. Most of my day is spent working with engineering, product, design, and other stakeholders — making sure my team is building the right things and has what they need to do it well.
 
-I prefer to lead through influence. If I need something from a team that doesn't report to me, I build the relationship and make the case. If priorities are competing across groups, I'd rather work it out directly with the other leader than escalate every friction point. That said, when a decision needs to be made and alignment isn't happening, I'll push for resolution. If it's within my org, I'll make the call. If it's a shared decision, I'd rather escalate jointly than unilaterally decide. I can also say no to a stakeholder who outranks me if the ask doesn't make sense for the team or the product. I'll do it respectfully, with data, but I'll do it.
+I work things out directly when I can. If I need something from a team that doesn't report to me, I'll build the relationship and make the case rather than escalate every friction point. If you're a peer leader and we disagree on priorities, I'd rather hash it out between us than route it through our bosses. When that doesn't work and a decision is stuck, I'll push for resolution — but I'd rather escalate jointly than unilaterally.
 
-I also believe in shared ownership across teams. If my team needs to absorb extra work to unblock yours, and it's the right call for the business, we'll do it. I don't optimize only for my org. I expect the same in return.
+I'll absorb extra work to unblock your team if it's the right call for the business. I don't optimize only for my org. I expect the same in return.
 
-Managing up matters too. My leadership needs to know where we stand, what the risks are, and what I need from them. I keep that communication honest and concise. No surprises in either direction.
+The biggest example: HomeAway's Traveler Service Fee launch involved roughly 75% of the company. I led the entire testing effort across the full stack — from the front-end booking flow through to the financial backend, making sure fees landed in the correct accounting buckets and revenue was properly recognized. I reported progress, blockers, risks, and coverage gaps to the C-suite every week. It launched on time, and the rollout was so smooth that the only thing that convinced us it was actually live was watching the money roll in.
+
+I'll also push back on asks that don't make sense, even from people above me. Respectfully, with data, but I'll do it. And I keep my leadership informed — where we stand, what the risks are, what I need from them. No surprises in either direction.
 
 ## Building and scaling teams
 
@@ -66,7 +72,17 @@ I've built teams from scratch and grown existing ones. When hiring, I'm looking 
 
 When a team is growing, the things that worked at three people don't always work at fifteen. I pay attention to when process needs to tighten up, when communication patterns need to change, and when roles need clearer definition. Scaling is its own skill and I've learned most of it the hard way.
 
-I also think about who's ready for more responsibility. Not everyone wants to manage people, and that's fine. I try to create paths where strong individual contributors can grow without being forced into management just because there's no other ladder.
+The flip side of scaling is surviving a contraction. At HomeAway, the org went full-stack and developers were expected to own their own testing. My team went from 22 to about 10 as the dedicated QA roles went away. We could have fought it or faded out. Instead, we found a need and leaned into it — CI/CD and Jenkins pipeline engineering. We went from being QA consultants at best to building a platform product that every engineering team depended on. We worked closely with the platform teams, earned respect through the work, and built something the org genuinely needed. That's the hardest kind of scaling — not adding people, but reinventing what your team is while keeping everyone employed and relevant.
+
+## Your growth
+
+I've promoted three of my five managers from within — people who started as individual contributors on my teams and grew into leaders. That didn't happen by accident. It happened because we talked about where they wanted to go, built a plan to get there, and I made sure they had the opportunities to prove they were ready.
+
+Career development isn't an annual review conversation. It's a running thread in our 1:1s. Where do you want to be in two years? What skills do you need? What kind of work would stretch you? If you don't know the answers yet, that's fine — we'll figure it out together. When you're ready for the next step, I'll make sure the right people see your work. Promotions shouldn't depend on self-promotion.
+
+Not everyone wants to manage people, and I don't treat that as a lesser path. Some of the strongest contributors I've worked with had no interest in management. I try to create growth paths where technical depth is valued on its own terms — harder problems, broader scope, mentoring without the org chart responsibility.
+
+I also coach my team that career development is a partnership, not a service I provide. I'll guide you, advocate for you, and create opportunities — but ultimately you own your career. That means investing in yourself: manage your own growth, stay sharp on how to articulate your value, and never stop learning. The people who advance fastest are the ones who don't wait for someone else to hand them the next step.
 
 ## How I handle performance issues
 
@@ -76,13 +92,31 @@ I'll tell you what I'm seeing, what needs to change, and give you a reasonable w
 
 If I've given clear feedback and nothing changes, I'll escalate. That includes managing someone out if it comes to it. I don't enjoy that part of the job, but I won't avoid it. The rest of the team is watching how I handle it, and they deserve to know that standards mean something.
 
+The harder version of this isn't performance — it's restructuring. When the company makes cuts and good people lose their jobs through no fault of their own, that's when leadership matters most. I've been through rounds of restructuring where my team was significantly reduced — layoffs, transfers, scope changes I didn't choose. For every person who was let go, we gave references, made introductions across our networks, and made sure they had real support landing somewhere good. How you treat people on the way out says more about you than anything else. The people who stayed needed to see that too.
+
 ## Making hard calls
+
+> El que no arriesga, no gana — *He who doesn't risk, doesn't win* (Spanish)
 
 Not every decision has a good option. Sometimes you're choosing between shipping with known issues or missing a commitment. Sometimes you're cutting a feature the team spent weeks on because the priority changed. Sometimes you're letting go of someone the team likes because the performance isn't there.
 
-I've made all of those calls. I don't enjoy most of them. But I make them, and I make them without dragging the process out longer than it needs to be. The team deserves clarity, not prolonged ambiguity while I hope the problem resolves itself.
+I've made all of those calls. The hardest was letting go of a manager I'd promoted from within. The org shifted from QA to CI/CD operations, and despite coaching, he couldn't make the transition — he kept trying to do QA work when we'd expressly moved to build and pipeline engineering. I put him on a PIP and ultimately had to let him go. I handled it as compassionately as I could, and he and I still talk to this day. He actually recommended me for a role I wouldn't have gotten an interview for without him. It all worked out, but it was a hard time for both of us. That's what those calls actually feel like — not clean decisions on a whiteboard, but real relationships with real consequences.
+
+I don't enjoy most of those calls. But I make them, and I make them without dragging the process out longer than it needs to be. The team deserves clarity, not prolonged ambiguity while I hope the problem resolves itself.
 
 I've also inherited situations that needed rebuilding, understaffed teams, technical debt, unclear ownership, budget constraints. That's the reality of most director roles. You don't get to build from a blank slate. You assess what you have, figure out what needs to change first, and start delivering while you fix the foundation. I'm comfortable in that environment.
+
+## Where I've gotten it wrong
+
+I've made real management mistakes, and the ones that cost the most were all about communication.
+
+Early in my career, I held feedback too long. I'd let things build up and then surprise someone at their annual review with issues they were hearing about for the first time. That's not fair, and it's exactly why I now insist on addressing problems early and directly. That lesson came from doing it wrong.
+
+I've misjudged people in hiring — brought in folks I was sure would be a great fit and they weren't. And I've kept people too long when the feedback wasn't landing, giving more chances than the situation warranted because I wanted it to work out. More than once. By the time I finally acted, the rest of the team's morale had already taken the hit. They could see what I was slow to admit. The lesson: when you first think "this isn't working," it's not working. That doesn't always mean separation — sometimes it's a different role, a different team, a better fit somewhere else. But changes need to happen before the problem becomes everyone else's problem. I learned to deal with issues in the moment and be direct with feedback immediately, not save it for a weekly 1:1.
+
+I've also made technical calls that bit me. I once built an entire automation framework on static methods in Java — it worked fine at small scale, but as the suite grew, shared state between tests started causing cascading failures. It hit a wall during a critical testing period — OutOfMemoryErrors, test pollution, the works. I had to restructure the whole framework under pressure. That's where being self-taught without formal CS training cost me. I didn't know what I didn't know about object lifecycle and memory management until the framework told me the hard way. I've been more deliberate about understanding the foundations since then, not just the "does it work right now" layer.
+
+The one that surprised me most: I had a strong contributor I believed I was communicating with clearly about where they stood — what was going well, what needed to develop before a promotion. They gave every indication they were tracking. When the promotion didn't come, they were blindsided and left. That was a big loss, and it taught me that clear communication isn't just about what I say — it's about confirming what the other person actually heard. I check for that now in ways I didn't before.
 
 ## Seeing the bigger picture
 
@@ -96,6 +130,8 @@ I do my best strategic thinking when I can ground it in real signals. I look at 
 
 I talk to the people doing the work. Engineers, product managers, support teams. They know where things break before the dashboards do. Strategy that ignores the people closest to the problem is just guessing with a spreadsheet.
 
+The HomeAway CI pivot I described above was a setting-direction problem as much as a scaling one — reading the signal was the easy part. Convincing experienced professionals to reinvent their careers required more than a roadmap.
+
 I also revisit the plan regularly. A quarterly roadmap that doesn't adapt to what we're learning is just a wish list. I'd rather adjust course based on real signals than defend a plan that stopped making sense two months ago.
 
 ## What "ownership" means on my teams
@@ -105,6 +141,8 @@ It means you don't just do the task, you think about it. If you see something br
 Ownership also means knowing your limits. Asking for help is not weakness. Silently struggling until something blows up is a much bigger problem.
 
 ## How I know it's working
+
+> По делам судят — *Judge by deeds* (Russian)
 
 Happy teams that don't deliver aren't successful. High-output teams that burn out aren't either. I'm looking for both: consistent delivery and people who want to stay and grow. If the work is shipping, the quality is solid, and people aren't running for the door, I'm doing my job.
 

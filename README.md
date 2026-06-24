@@ -59,7 +59,7 @@ I'm flexible with hours and I'll show up when needed, but it goes both ways. If 
 
 The people I work best with are honest, self-sufficient, and not afraid to push back. Tell me when I'm wrong. Bring your own perspective, not just agreement. Do what you said you'd do. If you can't, say so early. I don't need you to be the smartest person in the room — I need you to show up, put in the effort, and own your lane.
 
-What kills my motivation: politics over substance, decisions made for optics instead of outcomes, being asked to pretend something is working when it isn't. I can push through a lot — boring work, tight deadlines, difficult people. But if the job becomes more about appearances than results, I'll push back to get things refocused. I'd rather fix the problem than quietly accept it.
+What challenges my motivation: politics over substance, decisions made for optics instead of outcomes, being asked to pretend something is working when it isn't. I've learned that navigating politics is part of the job at senior levels — but it should serve the work, not replace it. I can push through a lot — boring work, tight deadlines, difficult people. But if the job becomes more about appearances than results, I'll push back to get things refocused. I'd rather fix the problem than quietly accept it.
 
 ## What I Bring
 
@@ -73,7 +73,7 @@ When I lock on to a problem, I bulldog it. I've pulled off things people said co
 
 Give me access and tools, I'll find what you need.
 
-My job is to make my team better. I filter noise so you can focus. I remove blockers and expedite what you need. When upper management wants to micromanage, I'm the shield — my team gets space to work. When you're stuck on something hard, I'm not just clearing the path — I'll sit down and think through it with you. When things go well, I make sure the right people see your work. When things go wrong and it's on me, I own it. I'll advocate for your growth, fight for your promotion, and find you the stretch opportunities that get you ready. The best version of my role is when the team doesn't even realize how much risk I'm quietly removing.
+My job is to make my team better. I filter noise, remove blockers, shield the team from micromanagement, and make sure the right people see your work. When things go wrong and it's on me, I own it. The best version of my role is when the team doesn't even realize how much risk I'm quietly removing. [More on how I lead](leadership.md).
 
 ## What Excites Me
 

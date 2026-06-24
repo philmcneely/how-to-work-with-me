@@ -1,10 +1,10 @@
 # Adventures in Testing: AI-Powered Testing Tools
 
-**Consultant** — Feb 2025 to present
+**Consultant** — Feb 2025 to Oct 2025
 
 ## The Work
 
-Adventures in Testing was my consulting practice between FullStory and Western Union. I took on some minor consulting work, but the real value of this period was R&D — expanding beyond AI-assisted test creation into the full end-to-end pipeline: from story to test generation to execution. Not just "can AI write a test" but "can AI take a Jira ticket, understand the intent, generate the right tests, and run them."
+Adventures in Testing was my consulting practice between FullStory and Western Union. I did client work, but the real value of this period was R&D — expanding beyond AI-assisted test creation into the full end-to-end pipeline: from story to test generation to execution. Not just "can AI write a test" but "can AI take a Jira ticket, understand the intent, generate the right tests, and run them."
 
 ## What I Built
 

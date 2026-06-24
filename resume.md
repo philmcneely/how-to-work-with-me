@@ -4,7 +4,7 @@
 
 **Senior Manager, Quality Engineering** — Western Union (Oct 2025-present), Austin, TX
 
-North American QE leader driving automation-first testing transformation. Architecting enterprise-wide QE frameworks, introducing AI-assisted testing patterns. Data-driven quality using JIRA trends, coverage KPIs, and release readiness scorecards. Mentoring QE leads and facilitating communities of practice.
+Only US-based manager for a 200+ person quality engineering org. Hands-on daily release management — patches, hotfixes, experiments, full deploys, smoke testing. Representing the full testing org to US-based product and engineering leadership. Cross-timezone coordination and handoffs across a globally distributed team. Coaching modern testing patterns and driving automation adoption.
 
 ## Career
 

@@ -6,11 +6,12 @@
 
 ## The Role
 
-North American QE leader and the only US-based quality engineering manager. The role has been evolving since day one — establishing QE practices, building relationships across a globally distributed organization, and driving the shift toward automation-first testing.
+The only US-based manager for a 200+ person quality engineering org. I represent the entire testing organization during US hours — the day-to-day is hands-on release management across patches, hotfixes, optimizations, experiments, and full deploys, each requiring smoke test coordination. I'm also the face of the org to US-based stakeholders, product leads, and engineering leads, managing handoffs and requests across time zones.
 
-## What I'm Building
+## What I Do
 
-- Architecting enterprise-wide QE frameworks to standardize how testing is done across teams
-- Introducing AI-assisted testing patterns — bringing the same approach I built at Adventures in Testing into an enterprise environment
+- Hands-on management of daily US-timezone releases — patches, hotfixes, experiments, full deploys, smoke testing
+- Representing the full quality engineering org to US-based product and engineering leadership
+- Cross-timezone coordination — handoffs, escalations, and routing requests across a globally distributed team
+- Coaching modern testing patterns and driving automation adoption
 - Data-driven quality practices using JIRA trends, coverage KPIs, and release readiness scorecards
-- Mentoring QE leads and facilitating communities of practice across North American teams

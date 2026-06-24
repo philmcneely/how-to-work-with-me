@@ -66,14 +66,21 @@ Shifted from test management to owning the CI/CD platform that every team depend
 - Built the DORA4 Software Delivery and Pipeline Infrastructure dashboards from scratch — with drill-down trending, tied to DORA 2018 Report benchmarks, tracking commits, builds, production deploys, deployment lead time, build stability, FCIs, and FCI breakdown
 - Controlled the SOX gate to keep deployments compliant
 - Led the Sauce Labs to BrowserStack migration — 100% of active repos migrated
+- Owned Sauce Labs budget and contract, plus SOW/contracts for 3 outsourced testing vendors
 - Managed vendors, resources, and spend related to CI/CD, distributed testing, and testing consultants
 - Managed and developed a distributed team of engineers
+
+## What colleagues said
+
+> "Phil is an asset to any team. He can explain technical issues in layman's terms. If Phil was not a QA Engineer, he should be a teacher. He is honest, forthright and a kind person to have on your team — always willing to help and take time to teach." — **Kelly Barton**, later Senior Director of Global Risk Management & Trust and Safety at Expedia Group
+
+> "It is very rare for a developer to say anything nice about a QA team. Especially a QA Manager. But having worked with Phil, I have seen what a good QA group is supposed to do. Phil is very knowledgeable, resourceful and entirely dependable." — **Jonathan Borden**, VP Software Engineering
 
 ## Recognition
 
 - **Traveler Award** — the highest individual award HomeAway gives
 - **Keep Calm and HomeAway** — team award with the payments team
-- Two additional awards (names TBD)
+- **Birdhouse Award** (x2) — recognition of excellence
 
 ---
 

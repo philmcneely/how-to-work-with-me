@@ -11,9 +11,9 @@ Every role in my career follows the same arc: inherit a manual or fragile proces
 | [HomeAway/Vrbo](impact/homeaway/) | 2007-2020 | 13 years, 4 roles — built the quality org that tested the products driving a $3.9B acquisition |
 | [FullStory](impact/fullstory/) | 2022-2025 | Release cycles from 2.5hrs to 15min, CI costs cut 50%+ |
 | [Expedia](impact/expedia.md) | 2020-2022 | Quality engineering focal for Lodging, drove convergence on tooling and practices |
-| [Western Union](impact/western-union.md) | 2025-present | Only US-based QE manager — building automation-first testing and enterprise QE frameworks |
+| [Western Union](impact/western-union.md) | 2025-present | Only US-based manager for a 200+ person quality engineering org — hands-on release management, stakeholder representation, and automation advocacy across US hours |
 | [Adventures in Testing](impact/adventures-in-testing.md) | 2025 | AI-powered testing tools and on-prem LLM infrastructure |
 | [Pinion Software](impact/pinion.md) | 2004-2007 | QA Manager — 3 product lines, offshore team, built automation with AutoIt/Badboy |
-| [Hire.com](impact/hire.md) | 2000-2004 | Promoted to QE team lead — 4 FTEs, contractors, Pune, 12 interns, 5 product lines |
+| [Hire.com](impact/hire.md) | 2000-2004 | Promoted to testing team lead — 4 FTEs, contractors, Pune, 12 interns, 5 product lines |
 | [Winternals](impact/winternals.md) | 1999-2000 | Found $200K+ bug, $90K+ recovery — worked with Mark Russinovich and Bryce Cogswell |
 | [Veterans4Quality](impact/veterans4quality.md) | 2012-2023 | 11 years teaching testing and automation to Veterans transitioning into tech (volunteer) |
