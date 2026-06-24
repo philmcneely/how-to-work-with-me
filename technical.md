@@ -87,3 +87,7 @@ All codebases have it. The question isn't whether you have technical debt — it
 I treat technical debt like financial debt. Some of it is strategic — you took a shortcut to hit a deadline and you know you'll pay it back. That's fine as long as you actually pay it back. Some of it is accidental — nobody realized the shortcut was a shortcut until it started causing problems. That happens. The dangerous kind is the debt nobody's tracking. It compounds silently until something breaks in production and suddenly you're spending a week on something that should have been a one-hour fix six months ago.
 
 I build paying down technical debt into the regular roadmap. Not as a separate initiative — as part of the work. Every sprint should leave the codebase a little better than it found it. If you only address tech debt when things are on fire, you'll always be on fire.
+
+---
+
+Have feedback? [Open an issue](https://github.com/philmcneely/how-to-work-with-me/issues/new/choose).

@@ -28,3 +28,7 @@
 | Jan 1989 - Aug 1989 | Alamo Community College District | Staff — student manager of tutoring center, maintained computer lab, supervised staff of 6, ESL instruction |
 | May 1987 - Dec 1988 | RTM West / Arby's Unit 1009 | Crew Member — #6 store in the country, moved to #5. Best Drive Thru time, Presidents Cup (2 yrs), Night Owl (8x), Most individual sales ($734.51/hr), Silver Cup (1988) |
 | Nov 1986 - May 1987 | California Meter Service | Technician |
+
+---
+
+Have feedback? [Open an issue](https://github.com/philmcneely/how-to-work-with-me/issues/new/choose).

@@ -167,3 +167,7 @@ Happy teams that don't deliver aren't successful. High-output teams that burn ou
 ## My leadership style in a sentence
 
 I'll give you everything you need to succeed and then get out of your way. In return, be straight with me and deliver what you commit to.
+
+---
+
+Have feedback? [Open an issue](https://github.com/philmcneely/how-to-work-with-me/issues/new/choose).

@@ -29,3 +29,7 @@ Quality Engineering is engineering the best ways to test.
 The craft is testing. The engineering is in how you do it — the frameworks, the infrastructure, the automation, the observability, the feedback loops. You build systems that make testing faster, more reliable, and more useful. You build pipelines that catch problems in minutes instead of hours. You build dashboards that show the team where the risk is before they ship.
 
 The purpose never changes: provide information about the state of the product so the people with authority can make informed decisions about quality. The engineering is about making that information better — faster to produce, harder to ignore, impossible to fake.
+
+---
+
+Have feedback? [Open an issue](https://github.com/philmcneely/how-to-work-with-me/issues/new/choose).

@@ -67,3 +67,7 @@ Only US-based manager for a 200+ person quality engineering org. Hands-on daily 
 ## [Veterans4Quality](impact/veterans4quality.md) (2012-2023)
 
 11 years teaching hands-on testing and automation skills to recently retired Veterans. Restructured curriculum, built progression roadmap, designed capstone program. Topics: testing tools, cross-browser testing, API testing, automation basics.
+
+---
+
+Have feedback? [Open an issue](https://github.com/philmcneely/how-to-work-with-me/issues/new/choose).

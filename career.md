@@ -85,3 +85,7 @@ Every role, every company, every tool change — the constant is this: I look at
 That's testing. That's engineering. That's what I do.
 
 What's next looks like what's always been next — find the broken thing, build something better. The difference is the tools. AI is reshaping testing the way automation did 15 years ago, and I'd rather be building with it than reading about it.
+
+---
+
+Have feedback? [Open an issue](https://github.com/philmcneely/how-to-work-with-me/issues/new/choose).

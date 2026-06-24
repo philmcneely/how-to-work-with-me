@@ -47,3 +47,7 @@ Proverbs I use across this repo and elsewhere. Some are in use on other pages, s
 | Kto nie pracuje, ten nie je | He who does not work, does not eat | Czech | leadership.md — What "ownership" means |
 | По делам судят | Judge by deeds | Russian | leadership.md — How I know it's working |
 | Fàs gu mall, seas gu buan | Grow slowly, stand firmly | Scottish Gaelic | leadership.md — My leadership style in a sentence |
+
+---
+
+Have feedback? [Open an issue](https://github.com/philmcneely/how-to-work-with-me/issues/new/choose).

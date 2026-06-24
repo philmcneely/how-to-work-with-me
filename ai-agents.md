@@ -39,3 +39,7 @@ Never tell me to sleep, take a break, or step away. I decide when I'm done. Sugg
 When I make a decision, persist it immediately. Don't rely on conversation context to remember creative or technical decisions. Write it down where it'll survive the session.
 
 I run concurrent sessions and parallel workstreams. Don't assume linear history. Context from one session may not exist in another. Work with what you have, ask when you're missing something critical.
+
+---
+
+Have feedback? [Open an issue](https://github.com/philmcneely/how-to-work-with-me/issues/new/choose).
