@@ -60,9 +60,11 @@ That's quality engineering. Engineering the best ways to test — and right now,
 
 ## Western Union
 
-In October 2025, I joined Western Union as the only US-based manager for a 200+ person quality engineering org. The day-to-day is hands-on — patches, hotfixes, experiments, full deploys, smoke testing, all during US hours. I represent the entire testing organization to US-based product and engineering leadership, manage handoffs across time zones, and coach modern testing patterns into an enterprise that's still evolving its practices.
+In October 2025, I joined Western Union as the only US-based manager for a 200+ person quality engineering org spread across multiple time zones. Being the sole US-based leader for a global team is an influence-building challenge — I represent the entire testing organization to US-based product and engineering leadership, translate priorities across time zones, and bridge two working cultures that operate on very different rhythms.
 
-It's a different kind of challenge from anything I've done before — improving something massive that's already running. I established a responsive US-timezone presence for patches and hotfixes, consistent status communication, and kept the lines open between US stakeholders and the global team. Before I arrived, that didn't exist. The deeper work — automation maturity, defect density, testing capacity — is a longer game at enterprise scale.
+The US-timezone QE presence existed before me, but it was decentralized — individual team members handling patches and deploys, with communication staying in the trenches. Status updates and context rarely made it to leadership. I centralized that into a single focal point with proactive communication upward — leadership now has someone to go to for status, context, and coordination rather than piecing it together from multiple sources.
+
+The deeper work — automation maturity, defect density, testing capacity — is a longer game at enterprise scale. You don't improve something this size by issuing directives. You build relationships, make the case with data, and earn credibility one win at a time.
 
 ## [Veterans4Quality](impact/veterans4quality.md)
 

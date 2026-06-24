@@ -111,6 +111,20 @@ What I don't like: being pressured for immediate answers when it's not urgent, o
 
 If you want to check in on me, casual beats interrogative. "How are things going?" works. If I'm quiet, don't assume something is wrong — I'll surface problems when the timing is right. The worst thing you can do is not check in at all.
 
+## Working Across Time Zones
+
+I'm the US-timezone half of a globally distributed team. If we're in different time zones, here's how to work with me effectively:
+
+**Write it down.** If you made a decision, had a discussion, or learned something that affects our shared work, put it in writing where I can find it. I can't hear the hallway conversation — if it's not written down, it didn't happen for me.
+
+**Async by default, sync when it matters.** Status updates, FYIs, and routine requests work great as messages I'll read when I'm online. Save the face-to-face time for things that actually need a conversation.
+
+**Our overlap window is valuable.** If we have limited hours of timezone overlap, let's use them for the hard stuff — the things that genuinely need both of us thinking at the same time. Everything else can be async.
+
+**Handoffs over handwaving.** When your day ends and mine begins (or vice versa), a quick written handoff is the most valuable thing you can give me. What happened, what's open, what needs my attention. Five bullets. That's it.
+
+**Don't wait for me.** If you have enough context to make a good decision, make it. Document it. I trust your judgment. If I disagree, we'll talk about it — but I'd rather course-correct a decision you made than have you blocked waiting 12 hours for my response.
+
 ## Decisions
 
 My gut fires first. I always have an initial read. I've learned not to act on it right away. I need data to validate or override the instinct. If the data is ambiguous and a decision is needed now, I trust the gut. If I already know the problem space deeply, I'll move fast.

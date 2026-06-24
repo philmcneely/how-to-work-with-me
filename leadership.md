@@ -26,6 +26,18 @@ I'll share what I know. If I have context that helps you do your job better, you
 
 If you're coming from a rough situation, I get it. I'll build an environment where you can do your best work, and I won't rush you while you learn to trust it.
 
+## How I ask for feedback
+
+If I'm going to give you honest feedback, I'd better be able to take it too. So I ask first.
+
+I have a go-to question I ask regularly: "What could I stop doing that would make your job easier?" Not "how am I doing" — that's too vague and people will dodge it. I want the specific thing that's in the way.
+
+When someone gives me real feedback, I don't argue. I listen, I ask a follow-up if I need to understand it better, and I act on it where I can. If I disagree, I'll say so — but I'll still sit with it. The worst thing I can do is ask for honesty and then punish it.
+
+I also pay attention to what people don't say. If I ask three times and get "everything's fine" every time, that's not feedback — that's someone who doesn't trust the question yet. I'll keep asking.
+
+Feedback shouldn't be an event — not a quarterly review, not a scheduled ritual. It should be a normal part of how we work together, every day. We're all bad at it. The only way to get better is to make it ordinary instead of formal.
+
 ## What I expect from you
 
 Do the work. Try your best. Be honest about what you know and what you don't. I will never be upset that you don't know something. I'd rather hear "I'm not sure" than find out later we built on a bad assumption.
@@ -56,13 +68,15 @@ I don't do meetings for the sake of meetings. If we're meeting, there should be 
 
 ## Working across the organization
 
-The testing leader who only talks to testers isn't useful to anyone. Most of my day is spent working with engineering, product, design, and other stakeholders — making sure my team is building the right things and has what they need to do it well.
+My team's results matter, but so does whether I'm making the people around us better. The testing leader who only talks to testers isn't useful to anyone. Most of my day is spent working with engineering, product, design, and other stakeholders — making sure my team is building the right things and has what they need to do it well.
 
 I work things out directly when I can. If I need something from a team that doesn't report to me, I'll build the relationship and make the case rather than escalate every friction point. If you're a peer leader and we disagree on priorities, I'd rather hash it out between us than route it through our bosses. When that doesn't work and a decision is stuck, I'll push for resolution — but I'd rather escalate jointly than unilaterally.
 
 I'll absorb extra work to unblock your team if it's the right call for the business. I don't optimize only for my org. I expect the same in return.
 
 The biggest example: HomeAway's Traveler Service Fee launch involved roughly 75% of the company. I led the entire testing effort across the full stack — from the front-end booking flow through to the financial backend, making sure fees landed in the correct accounting buckets and revenue was properly recognized. I reported progress, blockers, risks, and coverage gaps to the C-suite every week. It launched on time, and the rollout was so smooth that the only thing that convinced us it was actually live was watching the money roll in.
+
+At Expedia, I drove "Release Resiliency" across the whole organization — reducing change-related failures through better testing practices, shift-left tooling, and progressive deployment. None of the teams I needed to change reported to me. I had to make the case, earn buy-in, and prove it worked. I also did hands-on quality consulting across Lodging domain teams — helping with test strategy, API architecture review, tooling choices. Nobody had to take my call. They did because the help was real.
 
 I'll also push back on asks that don't make sense, even from people above me. Respectfully, with data, but I'll do it. And I keep my leadership informed — where we stand, what the risks are, what I need from them. No surprises in either direction.
 
@@ -80,6 +94,8 @@ I've promoted three of my five managers from within — people who started as in
 
 Career development isn't an annual review conversation. It's a running thread in our 1:1s. Where do you want to be in two years? What skills do you need? What kind of work would stretch you? If you don't know the answers yet, that's fine — we'll figure it out together. When you're ready for the next step, I'll make sure the right people see your work. Promotions shouldn't depend on self-promotion.
 
+Early in your career, I'll teach you what I know — the patterns, the mistakes, the shortcuts. As you grow, I'll ask more questions and give fewer answers. The problems get ambiguous enough that what worked for me might not be the right call for you. My job shifts from showing you how to helping you figure it out yourself.
+
 Not everyone wants to manage people, and I don't treat that as a lesser path. Some of the strongest contributors I've worked with had no interest in management. I try to create growth paths where technical depth is valued on its own terms — harder problems, broader scope, mentoring without the org chart responsibility.
 
 I also coach my team that career development is a partnership, not a service I provide. I'll guide you, advocate for you, and create opportunities — but ultimately you own your career. That means investing in yourself: manage your own growth, stay sharp on how to articulate your value, and never stop learning. The people who advance fastest are the ones who don't wait for someone else to hand them the next step.
@@ -88,7 +104,7 @@ I also coach my team that career development is a partnership, not a service I p
 
 Early and directly. If something isn't working, you'll know. I won't let it build up for months and then drop it on you in a review. That's not fair and it doesn't give you a chance to fix it.
 
-I'll tell you what I'm seeing, what needs to change, and give you a reasonable window to course correct. I'm patient with someone who's trying, and if we disagree on the problem itself, I want to hear that. But patience has a limit. If someone won't engage with the feedback at all, that's a different conversation.
+I'll tell you what I'm seeing, what needs to change, and we'll agree on a specific timeframe to course correct. Not vague — concrete. "This needs to improve by [date], and here's how we'll measure it." I'm patient with someone who's trying, and if we disagree on the problem itself, I want to hear that. But if we've set a target and the date arrives without meaningful progress, we move to the next step. That's the deal upfront, not a surprise at the end.
 
 If I've given clear feedback and nothing changes, I'll escalate. That includes managing someone out if it comes to it. I don't enjoy that part of the job, but I won't avoid it. The rest of the team is watching how I handle it, and they deserve to know that standards mean something.
 
@@ -131,6 +147,8 @@ I do my best strategic thinking when I can ground it in real signals. I look at 
 I talk to the people doing the work. Engineers, product managers, support teams. They know where things break before the dashboards do. Strategy that ignores the people closest to the problem is just guessing with a spreadsheet.
 
 The HomeAway CI pivot I described above was a setting-direction problem as much as a scaling one — reading the signal was the easy part. Convincing experienced professionals to reinvent their careers required more than a roadmap.
+
+At Expedia, I turned that into a formal quality strategy — start with who the customers actually are, figure out what they expect, find the levers that move quality, and close the gaps. That's what got the CTO's attention and got the architects and senior leaders rowing in the same direction on testing.
 
 I also revisit the plan regularly. A quarterly roadmap that doesn't adapt to what we're learning is just a wish list. I'd rather adjust course based on real signals than defend a plan that stopped making sense two months ago.
 
