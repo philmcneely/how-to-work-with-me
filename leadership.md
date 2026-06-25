@@ -114,6 +114,32 @@ Not following through. If you say you'll do something, do it. If something chang
 
 That said — if people on my team are hiding problems from me, the first question I ask is whether I've made it safe enough to bring them up. That's on me to fix.
 
+## What puts me in a bad mood
+
+Meetings where people don't respect each other's time. Specifically:
+
+Showing up 3-4 minutes late and then asking to be caught up. You just cost everyone in the room that time. It adds up fast when it's a pattern.
+
+Not responding to meeting requests. Yes or no, I don't care — just answer so I can plan.
+
+Not showing up to meetings you accepted, or showing up to ones you didn't accept and then wondering why I'm not there. Pick one.
+
+Letting meetings run over without asking. I probably have somewhere to be next. If we need more time, check — don't just keep talking past the hour.
+
+Meetings that end without clear decisions or action items. If we talked for 30 minutes and nobody knows what we decided or who's doing what, that meeting didn't happen.
+
+Being talked over or dismissed. I'm not the loudest person in the room and I don't fight for airtime. If I'm saying something, it's because I think it matters. Raising your voice to talk over someone rather than letting them finish their thought isn't assertive — it's rude. Same goes for "yeah yeah yeah" while someone is still talking. Let people finish.
+
+Politics over substance. If the answer to "why are we doing this?" is "because so-and-so wants it" with no actual rationale, that grinds on me. I'll do it, but I won't be happy about it.
+
+## How I celebrate wins
+
+It depends on the win.
+
+Personal wins are when I can point to something and say "I did that" — even if nobody else notices. The dashboard that moved, the process that stopped being painful, the thing that works now because I built it. Some acknowledgment is always appreciated, but the satisfaction comes from knowing it's real.
+
+Team wins are different. The best part of a team win is watching my people get recognized for their hard work. That's the payoff. I make sure we all stop and acknowledge what we accomplished and appreciate each other — not just move on to the next thing.
+
 ## Working across the organization
 
 My team's results matter, but so does whether I'm making the people around us better. The testing leader who only talks to testers isn't useful to anyone. Most of my day is spent working with engineering, product, design, and other stakeholders — making sure my team is building the right things and has what they need to do it well.
