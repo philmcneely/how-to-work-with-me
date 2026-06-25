@@ -38,6 +38,24 @@ I also pay attention to what people don't say. If I ask three times and get "eve
 
 Feedback shouldn't be an event — not a quarterly review, not a scheduled ritual. It should be a normal part of how we work together, every day. We're all bad at it. The only way to get better is to make it ordinary instead of formal.
 
+## How I give feedback
+
+In the moment when I can. I'd rather say something while it's fresh than save it for a 1:1 two weeks later when neither of us remembers the details. If it's quick — "that was a good call" or "heads up, that approach has a gotcha" — you'll hear it right away.
+
+For bigger things — patterns I'm seeing, growth areas, something that needs to change — that goes in our 1:1 where we have space to talk it through. I won't drop something heavy on you in a Slack message.
+
+If I'm giving you hard feedback, it's because I think you can do something with it.
+
+## How I recognize good work
+
+Directly and specifically. "Good job" is lazy — I'll tell you what you did, why it mattered, and who it helped. If you nailed a tricky rollout or unblocked another team, you'll hear exactly that.
+
+I default to private recognition — a message, a 1:1 callout. If you want public shoutouts, tell me. Some people love that, some hate it. I'll match what works for you.
+
+When the team wins, we celebrate as a team. If someone on another team says our work saved them, the whole group hears about it. I want people to know what we did and why it mattered.
+
+I also make sure the right people above me know. If your work made an impact, I'll make sure it's visible in the places that matter for your career — not just to me.
+
 ## What I expect from you
 
 Do the work. Try your best. Be honest about what you know and what you don't. I will never be upset that you don't know something. I'd rather hear "I'm not sure" than find out later we built on a bad assumption.
@@ -64,7 +82,37 @@ I also care about the team as a team, not just a collection of individuals execu
 
 The best proof of how I run teams is what people say after they've left. Former team members, years later, don't talk about process or frameworks. They say things like "support, mentor, set priorities, diffuse conflict and remove roadblocks," "provide product and emotional support," and "you're a good sounding board — we might not agree on anything but at least I can talk to you about it." One former team member told me she didn't realize how functional our team was until she experienced other teams and saw the difference. That's the culture I try to build — one where people can disagree openly, solve problems together, and actually enjoy the work. The humor and camaraderie aren't a bonus. They're load-bearing.
 
-I don't do meetings for the sake of meetings. If we're meeting, there should be a reason, an agenda, and a result. 1:1s are your time. Bring what you need to talk about. I'll come with feedback, development conversations, and anything I think you need to know. But your topics come first.
+I don't do meetings for the sake of meetings. If we're meeting, there should be a reason, an agenda, and a result.
+
+## 1:1s
+
+Your time, not mine. This is your dedicated space to talk about your career, bounce ideas, raise concerns, or work through something that's stuck. Your topics come first. I'll have things too, but they wait until you're done.
+
+That doesn't mean we only talk during 1:1s — we'll talk plenty outside of them. But this is your guaranteed time. It's on the calendar and it's yours.
+
+This is not a status report. I don't need a list of what you did this week — I can see that. If the most interesting thing we talk about is task updates, something's wrong. I want to know what's hard, what's unclear, what's bugging you, what you want to be doing that you're not.
+
+Every two weeks unless you need more. If you're new, we'll probably start weekly until you've got your footing. I don't cancel these. If I have to move one, I'll reschedule it, not skip it. If you cancel yours regularly, that usually tells me something's off — and I'd rather talk about what's behind it.
+
+## What a normal week looks like
+
+Mornings are usually meetings. Afternoons are when I'm more available for ad hoc conversations, deep work, or just catching up on what's happening across the team.
+
+I don't expect you to be available outside of working hours and I won't Slack you at night expecting a response. If something is genuinely on fire, you'll get a call, not a message. If I do send something late, it's because I'm thinking about it — not because I need you to act on it right now.
+
+I check Slack and email frequently during the day. If you need something quick, Slack is fastest. If it's complex or needs a decision with context, put it in writing so I can read it and think before I respond.
+
+## Things that will bother me
+
+Being told everything is on track and then finding out suddenly it's not. Surprises happen — that's fine. What I can't work with is when things started slipping three days ago and nobody said anything. The moment something changes, that's when we talk about it and adjust. Not after it's already a problem.
+
+Silence when I ask a question. If you don't know, say you don't know. If you disagree, say so. "Everything's fine" when it's not fine is worse than any problem you could bring me.
+
+Half-done work presented as done. If it's 80%, say it's 80%. I'll respect that a lot more than having to find the missing 20% myself.
+
+Not following through. If you say you'll do something, do it. If something changed and you can't, tell me. Tasks come and go — the trust between us lasts a lot longer. I'd rather you tell me you can't than let me find out you didn't.
+
+That said — if people on my team are hiding problems from me, the first question I ask is whether I've made it safe enough to bring them up. That's on me to fix.
 
 ## Working across the organization
 
@@ -87,6 +135,18 @@ I've built teams from scratch and grown existing ones. When hiring, I'm looking 
 When a team is growing, the things that worked at three people don't always work at fifteen. I pay attention to when process needs to tighten up, when communication patterns need to change, and when roles need clearer definition. Scaling is its own skill and I've learned most of it the hard way.
 
 The flip side of scaling is surviving a contraction. At HomeAway, the org went full-stack and developers were expected to own their own testing. My team went from 22 to about 10 as the dedicated QA roles went away. We could have fought it or faded out. Instead, we found a need and leaned into it — CI/CD and Jenkins pipeline engineering. We went from being QA consultants at best to building a platform product that every engineering team depended on. We worked closely with the platform teams, earned respect through the work, and built something the org genuinely needed. That's the hardest kind of scaling — not adding people, but reinventing what your team is while keeping everyone employed and relevant.
+
+## Your first 90 days
+
+The first couple weeks, I'm getting to know you. How you think, how you work, what you need from me. I'll ask a lot of questions. That's not a test — I just can't set you up to succeed if I don't understand where you're starting from.
+
+On my end, I'll introduce you to the people you need to know, give you context on how things actually work here — not just the org chart version — and keep you out of firefights until you've got your footing. Your job the first month is to learn, not to prove yourself.
+
+By month one, I expect you to be asking questions, not waiting for instructions. You won't have the full picture yet and that's fine — but if you're sitting quietly hoping someone tells you what to do, we need to talk about that early.
+
+By month three, you should own something. Not everything, but something you can point to and say "I made that better." I'll make sure you have the opportunity. That's how we figure out together what kind of work fits you best.
+
+I won't throw you into the deep end on day one, but I also won't hover. If you need help, ask. If you're stuck, say so. The worst outcome is three months of silence followed by "I didn't know what I was supposed to be doing."
 
 ## Your growth
 
