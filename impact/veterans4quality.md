@@ -2,6 +2,8 @@
 
 **Lead Instructor (Volunteer)** — 2012 to 2023
 
+[Back to Impact](../impact.md) | [Resume](../resume.md)
+
 ## The Work
 
 Hands-on testing and automation instruction for recently retired Veterans transitioning into tech careers. These were people with no prior software experience — discipline and work ethic for days, but starting from zero on the technical side.

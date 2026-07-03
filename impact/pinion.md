@@ -2,6 +2,8 @@
 
 **Software Quality Assurance Manager** — Sep 2004 to Jul 2007
 
+[Back to Impact](../impact.md) | [Resume](../resume.md)
+
 ## The Role
 
 Managed testing across 3 complementary product lines. Built and managed an offshore test team of 4 in addition to an intern and a direct report.

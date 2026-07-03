@@ -1,6 +1,8 @@
 # Adventures in Testing: AI-Powered Testing Tools
 
-**Consultant** — Feb 2025 to Oct 2025
+**Consultant** — Jan 2025 to Oct 2025
+
+[Back to Impact](../impact.md) | [Resume](../resume.md)
 
 ## The Work
 

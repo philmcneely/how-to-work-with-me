@@ -2,9 +2,11 @@
 
 **Technical Support / Software Tester** — Nov 1999 to Jan 2000
 
+[Back to Impact](../impact.md) | [Resume](../resume.md)
+
 ## The Role
 
-Got hired because I knew Windows NT4 cold — the MCSE wasn't just a certification, it was hands-on knowledge I could use in my sleep. Worked alongside Mark Russinovich and Bryce Cogswell testing Sysinternals and Winternals products, and supporting customers with real problems.
+Got hired because I knew Windows NT4 cold — the MCP work I'd done wasn't just exam prep, it was hands-on knowledge I could use in my sleep. Worked alongside Mark Russinovich and Bryce Cogswell testing Sysinternals and Winternals products, and supporting customers with real problems.
 
 ## What I Did
 

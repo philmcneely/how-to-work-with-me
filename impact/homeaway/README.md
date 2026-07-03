@@ -2,6 +2,8 @@
 
 **Jul 2007 – Jul 2020** | Four roles, from individual contributor to senior engineering manager.
 
+[Back to Impact](../../impact.md) | [Resume](../../resume.md)
+
 ## The Stock Chart
 
 ![HomeAway Stock Performance](homeaway-stock-chart.png)
@@ -12,7 +14,7 @@ Products delivered outperformed expectations, resulting in significant revenue g
 
 ## Scale
 
-At peak, I managed a globally distributed team of 63 testers — FTEs (ICs and managers) and contract workers across multiple vendors and locales, with 5 managers (3 of whom I developed and promoted from within the org). I also led cross-product testing initiatives involving over 100 testers. These weren't isolated test plans — they were company-wide programs reported to executive leadership weekly.
+At peak, I managed a globally distributed team of 62 testers — FTEs (ICs and managers) and contract workers across multiple vendors and locales, with 5 managers (3 of whom I developed and promoted from within the org). I also led cross-product testing initiatives involving over 100 testers. These weren't isolated test plans — they were company-wide programs reported to executive leadership weekly.
 
 ---
 

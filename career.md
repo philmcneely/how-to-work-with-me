@@ -28,7 +28,7 @@ When I started at Kelly/HP, we were still delivering Windows 3.1, then Win 95 �
 
 I wanted to get the MCSE+I on Windows NT4. Microsoft had a scholarship program, but I made too much money to qualify — even though I worked at a gas station. So I got mad and did the math: the classes cost $14K for seven courses, but the books were $50 each. $350 in books left a lot of wiggle room. I bought the books, got a couple of computers, and did everything in them — not just read, did. The registry, the network stack, the permissions model. My first server was a Pentium Pro 200 — I still miss that machine, those chips were awesome. That lab has never stopped growing. It's currently a fleet of Macs, a GPU server with six RTX 3090s, and more automation than most startups.
 
-The MCSE opened doors everywhere. My first run at HP through Kelly Services I was still working on it, but the second run they wanted WHQL certification and NT4 knowledge made that happen. It helped at Raintree too — they hosted on NT. And it's what got me hired at Winternals, where I knew NT4 cold. In my sleep well. I worked alongside Mark Russinovich and Bryce Cogswell testing their Sysinternals and Winternals products, and supporting customers who had real problems. NASA Johnson Space Center, where an admin told me "I know a group of MCSEs that are going to be out of a job after this" when I solved his issue. Monday Night Football, where they got locked out of the machine that controlled the first down line graphics right before a game — the admin had been fired and locked the system on his way out, as was typical back then. I found a major bug that had already cost the company over $200K in refunds — turned out the install path changed the service load order — one way the software worked, the other it didn't. And the path that broke it happened to be the way the MCSE taught you to install NT. Once I found the root cause, they fixed it and recovered $90K+ in buybacks from customers who needed the product within two weeks of reaching out. That moment taught me the value of a tester who actually thinks.
+That NT4 knowledge opened doors everywhere — I earned several MCPs along the way, and the MCSE was the goal, but I leaned back into QA because that's what I actually loved. My first run at HP through Kelly Services I was still working on it, but the second run they wanted WHQL certification and NT4 knowledge made that happen. It helped at Raintree too — they hosted on NT. And it's what got me hired at Winternals, where I knew NT4 cold. In my sleep well. I worked alongside Mark Russinovich and Bryce Cogswell testing their Sysinternals and Winternals products, and supporting customers who had real problems. NASA Johnson Space Center, where an admin told me "I know a group of MCSEs that are going to be out of a job after this" when I solved his issue. Monday Night Football, where they got locked out of the machine that controlled the first down line graphics right before a game — the admin had been fired and locked the system on his way out, as was typical back then. I found a major bug that had already cost the company over $200K in refunds — turned out the install path changed the service load order — one way the software worked, the other it didn't. And the path that broke it happened to be the way the MCSE taught you to install NT. Once I found the root cause, they fixed it and recovered $90K+ in buybacks from customers who needed the product within two weeks of reaching out. That moment taught me the value of a tester who actually thinks.
 
 ## Before the big companies
 
@@ -60,11 +60,15 @@ That's quality engineering. Engineering the best ways to test — and right now,
 
 ## Western Union
 
-In October 2025, I joined Western Union as the only US-based manager for a 200+ person quality engineering org spread across multiple time zones. Being the sole US-based leader for a global team is an influence-building challenge — I represent the entire testing organization to US-based product and engineering leadership, translate priorities across time zones, and bridge two working cultures that operate on very different rhythms.
+In October 2025, I joined Western Union as one of several managers in a 200+ person global quality engineering org — and the only one based in the US. That means I'm the US-timezone face of QE, representing the team to local product and engineering leadership, translating priorities across time zones, and bridging two working cultures that operate on very different rhythms.
 
 The US-timezone QE presence existed before me, but it was decentralized — individual team members handling patches and deploys, with communication staying in the trenches. Status updates and context rarely made it to leadership. I centralized that into a single focal point with proactive communication upward — leadership now has someone to go to for status, context, and coordination rather than piecing it together from multiple sources.
 
 The deeper work — automation maturity, defect density, testing capacity — is a longer game at enterprise scale. You don't improve something this size by issuing directives. You build relationships, make the case with data, and earn credibility one win at a time.
+
+Yes, Director to Senior Manager is a step back in title. After the consulting period I wanted stability, and Western Union was a good fit — a regulated industry where quality engineering has a durable future, real scope, and problems worth solving. Software engineering leadership has been hit hard across the board over the last few years, and QA in particular — it always goes first in a downturn, and AI gave every executive cover to accelerate the cuts. My preferred role — Director-level QE — is scarce. I took the role that made sense.
+
+That experience is also why I pivoted hard into AI-assisted testing and agentic workflows. The future of quality engineering isn't a large embedded team — it's a center of excellence. QA expertise on tap, available to consult, coach, and guide. The CoE provides platforms, tooling, and education. AI speeds everyone up. The CoE partners with engineering to propose tools and approaches, backs those proposals with data, and works alongside dev teams to select, implement, and measure — without the overhead of a 60-person org. I'd be a great fit to build and run that model.
 
 ## [Veterans4Quality](impact/veterans4quality.md)
 
@@ -85,6 +89,14 @@ Every role, every company, every tool change — the constant is this: I look at
 That's testing. That's engineering. That's what I do.
 
 What's next looks like what's always been next — find the broken thing, build something better. The difference is the tools. AI is reshaping testing the way automation did 15 years ago, and I'd rather be building with it than reading about it.
+
+## What I'm Looking For
+
+A Senior Manager or Director role in quality engineering, developer experience, or platform engineering — the title matters less than the scope and the impact. I've led large orgs and small ones, and the work was equally meaningful when the problems were real.
+
+Remote is my preference, but hybrid or onsite works. Austin-based.
+
+Quality engineering is where my heart is, but I've spent nearly a decade doing platform and DevEx work under QE titles — CI/CD infrastructure, developer tooling, build systems, engineering productivity. I go where the organization needs someone to make things better.
 
 ---
 

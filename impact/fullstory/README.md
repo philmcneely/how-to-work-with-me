@@ -2,6 +2,8 @@
 
 As Director of Engineering at FullStory (2022-2025), I owned the product and technical roadmap for internal tooling platforms and developer productivity. Drove cultural transformation toward automation-first and risk-aware quality practices across product teams.
 
+[Back to Impact](../../impact.md) | [Resume](../../resume.md)
+
 ## Measurable Outcomes
 
 | Metric | Before | After | Impact |

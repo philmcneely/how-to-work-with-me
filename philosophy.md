@@ -30,6 +30,8 @@ The craft is testing. The engineering is in how you do it — the frameworks, th
 
 The purpose never changes: provide information about the state of the product so the people with authority can make informed decisions about quality. The engineering is about making that information better — faster to produce, harder to ignore, impossible to fake.
 
+Testing is a human activity that requires judgment about context. When the context changes, the testing changes. When the whole function changes, the tester adapts — or becomes irrelevant.
+
 ---
 
 Have feedback? [Open an issue](https://github.com/philmcneely/how-to-work-with-me/issues/new/choose).
