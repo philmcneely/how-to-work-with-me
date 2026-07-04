@@ -2,7 +2,7 @@
 
 **Phil McNeely**
 
-[How to Work With Me](README.md) | [How I Think About Technology](technical.md) | [Career Story](career.md) | [Resume](resume.md) | [Business Impact](impact.md) | [LinkedIn](https://www.linkedin.com/in/philmcneely/)
+[How to Work With Me](README.md) | [How I Think About Technology](technical.md) | [Career Story](career.md) | [Resume](resume.md) | [Business Impact](impact.md) | [Writing & Projects](writing.md) | [LinkedIn](https://www.linkedin.com/in/philmcneely/)
 
 ## The short version
 

@@ -2,7 +2,7 @@
 
 **Phil McNeely**
 
-[How to Work With Me](README.md)
+[How to Work With Me](README.md) | [Career Story](career.md) | [Writing & Projects](writing.md)
 
 Everything in the main doc applies to you too. I treat you as coworkers. Same rules.
 

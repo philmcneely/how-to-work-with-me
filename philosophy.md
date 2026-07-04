@@ -2,7 +2,7 @@
 
 **Phil McNeely**
 
-[How to Work With Me](README.md) | [Career Story](career.md) | [How I Lead](leadership.md) | [How I Think About Technology](technical.md)
+[How to Work With Me](README.md) | [Career Story](career.md) | [How I Lead](leadership.md) | [How I Think About Technology](technical.md) | [Writing & Projects](writing.md)
 
 ## What I am
 

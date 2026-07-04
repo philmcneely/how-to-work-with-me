@@ -2,7 +2,7 @@
 
 **Phil McNeely**
 
-[How I Lead](leadership.md) | [How I Think About Technology](technical.md) | [Career Story](career.md) | [Resume](resume.md) | [Business Impact](impact.md) | [Medium](https://medium.com/@philmcneely) | [LinkedIn](https://www.linkedin.com/in/philmcneely/)
+[How I Lead](leadership.md) | [How I Think About Technology](technical.md) | [Career Story](career.md) | [Resume](resume.md) | [Business Impact](impact.md) | [Writing & Projects](writing.md) | [Medium](https://medium.com/@philmcneely) | [LinkedIn](https://www.linkedin.com/in/philmcneely/)
 
 ## TL;DR
 

@@ -2,7 +2,7 @@
 
 **Phil McNeely**
 
-[How to Work With Me](README.md) | [How I Lead](leadership.md) | [How I Think About Technology](technical.md)
+[How to Work With Me](README.md) | [How I Lead](leadership.md) | [How I Think About Technology](technical.md) | [Writing & Projects](writing.md)
 
 ## The short version
 
