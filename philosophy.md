@@ -20,7 +20,7 @@ Weinberg also gave us the definition that frames everything: "Quality is value t
 
 We're instruments. We help the people building the product see things they can't see on their own — the edge cases, the assumptions that don't hold, the behavior nobody designed for. We're extra eyes, extra hands, extra paranoia. Weinberg also put it perfectly: "You're in quality assurance? Are you allowed to change the source code? No? Then how can you assure quality?"
 
-None of this is original to me. It comes from the context-driven testing school — the people who argued and wrote and taught this way of thinking long before I picked it up, and who shaped how I approach the craft whether or not they'd ever know my name. Testing is a human activity. It requires skill, judgment, and critical thinking. It's not a phase in a process. It's not something you automate away. Automation is a tool that helps testers do their work. The thinking is the work.
+None of this is original to me. It comes from the context-driven testing school — the people who argued and wrote and taught this way of thinking long before I picked it up, and who shaped how I approach the craft whether or not they'd ever know my name. I argued with Cem Kaner once — and lost, sorta. If you know Cem, you know that's a credential, not a complaint. Testing is a human activity. It requires skill, judgment, and critical thinking. It's not a phase in a process. It's not something you automate away. Automation is a tool that helps testers do their work. The thinking is the work.
 
 ## How my thinking evolved
 
