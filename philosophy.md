@@ -46,6 +46,8 @@ None of that is me assuring quality — I still can't, and I've made my peace wi
 
 The newest part of the job is AI, and it's the same principle one more time. I champion agentic AI across the practice — AI-assisted test generation, agent-based testing — and I own the evaluation discipline and the human-in-the-loop governance that holds AI-assisted work to the same bar as anything written by hand. Trust the agent to do the work; verify it exactly as hard. An agent is a powerful new instrument. It is not an excuse to stop thinking.
 
+> **The measurement loop.** Measure everything — but the *right* things. Quality is value to someone who matters, not a number on a dashboard: measure outcomes and conversion, not vanity volume. Read the numbers to *learn*, never as a target to hit — the moment a metric becomes a goal, it gets gamed. That measured evidence is how I verify the work was real *and* meaningful. Доверяй, но проверяй. The analytics aren't decoration — they're the proof.
+
 ## What still holds
 
 Here's what the evolution didn't change: there's still room for testers, and there's still testing.
