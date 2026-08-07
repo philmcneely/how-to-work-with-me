@@ -1,6 +1,6 @@
 # How to Work With Me
 
-**Phil McNeely**
+**Phil McNeely** · he/him
 
 [How I Lead](leadership.md) | [How I Think About Technology](technical.md) | [Career Story](career.md) | [Resume](resume.md) | [Business Impact](impact.md) | [Writing & Projects](writing.md) | [Medium](https://medium.com/@philmcneely) | [LinkedIn](https://www.linkedin.com/in/philmcneely/)
 
@@ -151,6 +151,14 @@ I take feedback seriously. Constructive criticism lands best when it's specific 
 
 I don't need public recognition. Seeing the impact is enough — the dashboard that moved, the team that shipped faster, the process that stopped being painful. If you want to acknowledge something, a direct "that worked, nice job" lands better than any award or announcement.
 
+## How to Help Me
+
+Offer, don't impose. "Want a second set of eyes?" or "I hit this before — here's what worked" lands well. Taking over my problem or hovering does not; it reads as micromanagement, and that's a fast way to lose me.
+
+The most useful help is usually context and access, not intervention: point me at the doc, hand me the credentials, tell me what you already tried. I'd rather figure it out with the right information than have it done for me — that's how I actually learn it.
+
+If I'm stuck and quiet, give me room first; I'll ask when I want a hand. And when I *do* ask, take it seriously — it means I've already tried the obvious and I want a partner on it, not someone to solve it out from under me.
+
 ## Conflict
 
 I prefer to resolve disagreements through dialogue. That said, I don't avoid hard conversations, especially when I'm defending my team or advocating for something I believe in.
@@ -169,6 +177,16 @@ Loyalty means understanding someone deeply and not weaponizing that knowledge. P
 
 Break that and trust takes real time to rebuild. I can still work with you, but the dynamic changes. It's not a dealbreaker — it's a reset.
 
+## When I'm at My Best
+
+> Flow state — the good kind of quiet.
+
+I lock on. Hyperfocus, lose track of time, forget to eat or stand up. I'm iterating fast, shipping, turning the problem into a puzzle I can't put down. Decisions come quick because I'm deep in it. You'll see momentum — the thing that took hours now taking minutes.
+
+Here's the tell, because from the outside it looks a lot like stress: both start with me going quiet. The difference is the output. In flow I'm *producing* — shipping, building, engaged. Stressed, I *withdraw* — curt, short answers, efficiency mode. Watch what's coming out, not how much I'm talking.
+
+When I'm here: hand me the hard problem and get out of the way. Protect the focus block. Don't interrupt it with status checks or context switches. Feed me the puzzle, not the meeting — this is where my best work comes from.
+
 ## When I'm Stressed
 
 > Þetta reddast — *It will all work out* (Icelandic)
@@ -178,6 +196,14 @@ I get quiet. I'm processing, not disengaging. Then curt, short answers, efficien
 What helps: give me space. Don't poke. Let me come back to it.
 
 I've grown a lot in this area. More patience now. I recognize the signs earlier. Still a work in progress.
+
+## Chat to Me About
+
+The homelab and the AI stack — models, voices, pipelines (fair warning: I'll go deep). 3D printing, drones, the Lego / GI Joe / Star Wars collection, board games, D&D. The dogs, the cat, family. Anything that's a puzzle to take apart. Ask me "how does X work" and you'll get more than you bargained for.
+
+Casual beats interrogative — "how are things going?" works, a pop quiz doesn't.
+
+What to steer around: politics and religion — I keep both out of work, full stop. NSFW or off-color jokes go without saying. Beyond that I'm guarded and private — most people get a version of me, not the whole picture, and that's by design. Don't push for personal disclosure before there's trust; I'll open up on my own timeline, not on demand.
 
 ## Outside of Work
 
