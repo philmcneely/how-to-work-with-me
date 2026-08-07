@@ -16,6 +16,12 @@ Hands-on testing and automation instruction for recently retired Veterans transi
 - Took students from "what is a test case" to writing and executing automated tests
 - Final projects demonstrated real-world capability — one student who started with basic computer skills delivered a presentation on migrating cloud testing infrastructure from Sauce Labs to BrowserStack
 
+## Materials & Student Work
+
+- **[Class materials](https://github.com/philmcneely/V4Q_Class_Materials)** — the curriculum and resources I taught from
+- **Practice apps I built to test against** — a full front-end + back-end pair: [spring-petclinic-angular](https://github.com/philmcneely/spring-petclinic-angular) (front end) and [spring-petclinic-rest](https://github.com/philmcneely/spring-petclinic-rest) (back end)
+- **Student capstones** — real projects from people who started at zero: [Class12Capstone](https://github.com/maharris73/Class12Capstone) and [Capstone](https://github.com/hudnell107/Capstone)
+
 ## Why It Matters
 
 You don't teach something for 11 years without knowing it cold. Teaching forced me to explain testing in terms that made sense to people who had never seen a codebase. That ability — making the complex accessible — is the same skill that makes me effective as a leader. If I can teach a combat veteran how to write a test plan, I can get any engineering team aligned on a testing strategy.
