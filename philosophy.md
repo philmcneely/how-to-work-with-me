@@ -56,6 +56,16 @@ The tools got better and the remit got bigger, but the thinking is still the wor
 
 Quality is still value to some person who matters. I still poke at the thing everyone assumes is fine, still ask *is that actually true?*, still trust nothing I haven't checked myself. The job is so much more than it was when I started — the automation, the pipelines, the dashboards, the agents. But underneath all of it, I'm still a tester at heart.
 
+## Know how to use what you own
+
+Testing isn't only the testers' job, and looking at the product the way a customer does isn't either. A product owner who can't run their own product, and perform and verify most of their own requirements, doesn't understand the product well enough to own it. Same goes for engineering: nobody should be so specialized they can't sign in, place an order, or walk the main flow of the thing they build. There are exceptions to every rule, but they should be rare and deliberate, not the default.
+
+If you work with me, expect me to ask you to drive the product yourself — in a demo, in a review, in a bug triage. Not to catch you out. Because the person who can use the thing is the person who notices when it's wrong.
+
+## The long version
+
+How much quality is enough when a fix can ship in hours, how monitoring, dark launches and rollback change the testing bar, and where AI fits: [How Much Quality Is Enough?](https://philmcneely.github.io/quality/)
+
 ---
 
 Have feedback? [Open an issue](https://github.com/philmcneely/how-to-work-with-me/issues/new/choose).
