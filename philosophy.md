@@ -56,6 +56,10 @@ The tools got better and the remit got bigger, but the thinking is still the wor
 
 Quality is still value to some person who matters. I still poke at the thing everyone assumes is fine, still ask *is that actually true?*, still trust nothing I haven't checked myself. The job is so much more than it was when I started — the automation, the pipelines, the dashboards, the agents. But underneath all of it, I'm still a tester at heart.
 
+## Product, quality, engineering
+
+Most of what works in agile and modern delivery comes from three roles working together, not in sequence. Product defines the thing; quality and engineering ask questions to help refine it. Engineering builds it, quality tests it, and product accepts it — and helps test it, as does engineering. Seems like quality gets off light, huh? It doesn't. Product leads at the two ends and engineering leads in the middle; quality carries load the whole way, from the first question in refinement to the escape analysis after release. The full breakdown is on the [quality page](https://philmcneely.github.io/quality/#people).
+
 ## Know how to use what you own
 
 Testing isn't only the testers' job, and looking at the product the way a customer does isn't either. A product owner who can't run their own product, and perform and verify most of their own requirements, doesn't understand the product well enough to own it. Same goes for engineering: nobody should be so specialized they can't sign in, place an order, or walk the main flow of the thing they build. There are exceptions to every rule, but they should be rare and deliberate, not the default.
